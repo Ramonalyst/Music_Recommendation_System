@@ -1,6 +1,6 @@
 # 🎧 Yes We Jam – A Music Recommendation System
 
-A data-driven exploration and machine learning project that builds a music recommendation system using Spotify data. Inspired by Barack Obama's playlists, the project investigates what makes a song likely to appear on a curated playlist like his.
+A data-driven exploration and machine learning project that builds a music recommendation system using Spotify data. Inspired by Barack Obama's playlists (2019-2024), the project investigates what makes a song likely to appear on a curated playlist like his.
 
 ---
 
@@ -54,7 +54,8 @@ This project analyzes Spotify tracks through data collection, enrichment, statis
 
 ## 💡 Insights
 
-- Obama’s playlists favor jazz, soul, and socially conscious lyrics.
+- Obama’s playlists favor jazz, soul, and socially conscious lyrics. It was interesting to see how consistent Obama’s music taste remained, with distinct differences in genre, musical features and popularity compared to mainstream tracks
+- the differences in artist and track popularity between the 2 datasets, suggest the former President enjoys discovering hidden gems, his playlists include no fewer than 13 "unpopular tracks" with a score of 0, some even by renowned artists
 - Key features influencing playlist inclusion: **danceability, valence, and energy**.
 - Logistic Regression successfully predicted songs with high playlist fit.
 

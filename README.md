@@ -46,6 +46,7 @@ This project analyzes Spotify tracks through data collection, enrichment, statis
 | `MRS_statistical_testing.ipynb`           | Tests distributions, compares Obama Playlists vs. Top 100 tracks     |
 | `random_forrest.ipynb`                    | Feature importance analysis via Random Forest              |
 | `Logistic_regression_Obama_Final.ipynb`   | Predicts song inclusion using logistic regression          |
+| `KNN_Model_30k_Spotify_Songs.ipynb`       | Recommends similar tracks using K-Nearest Neighbors (KNN) on 30k Spotify Songs |
 | `Obama_vs_Top_100_Comparison.ipynb`       | Visual & numerical comparison of playlist differences      |
 | `cat_var_training_testing_list.ipynb`     | Prepares categorical variables for ML pipeline             |
 | `big_query_template.ipynb`                | Data export to Google BigQuery                             |

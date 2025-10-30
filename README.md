@@ -71,19 +71,28 @@ This project analyzes Spotify tracks through data collection, enrichment, statis
    ```bash
    pip install -r requirements.txt
 3. Run notebooks in Jupyter or VS Code
-4. (Optional) Add your own Spotify token in the .env file
 
 ## 📁 Data Sources
 
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-- Kaggle datasets:
-  - [Top Spotify Songs](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+- Kaggle dataset:
   - [30k Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs)
-  - [Spotify Playlists](https://www.kaggle.com/datasets/andrewmvd/spotify-playlists)
+
+### 📁 Data Files Included
+
+This repository includes curated datasets to ensure smooth reproducibility and experimentation:
+
+| Filename | Description |
+|---------|-------------|
+| `data/30K_spotify_songs_cleaned_V1.csv` | Cleaned version of the Kaggle 30k Spotify dataset
+| `data/BO_playlist_2019_2024_artist_enriched.csv` | Barack Obama's curated playlists (2019–2024), enriched with artist-level Spotify metadata. Collected via Spotify API. |
+| `data/2024_spotify_top_100_artist_enriched.csv` | Spotify Top 100 songs (2024 edition), enriched with artist-level data for comparative analysis. |
+| `data/song_list_obama_wo_duplicates_view.csv` | Clean and unique dataset with consolidated genre categories and no duplicate songs used for genre harmonization and merging. |
+ 
 
 ## 🙋‍♀️ Author
 
-Ramonalyst
+[@Ramonalyst](https://github.com/Ramonalyst)
 Data Analyst · Music Enthusiast · Project Lead
 
 ## 📬 Connect via LinkedIn
@@ -99,5 +108,5 @@ This project was created with the help and collaboration of:
 
 ## 📌 License
 
-MIT License – feel free to fork and build on it.
+MIT License – feel free to fork and build on it, just give credit 💙
 

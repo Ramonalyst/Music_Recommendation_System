@@ -1,0 +1,559 @@
+acousticness,danceability,duration_min,energy,genre,genre2,instrumentalness,key,liveness,loudness,mode,speechiness,track_album_name,track_album_release_year,track_artist,track_id,track_name,track_popularity,tempo,valence,in_obama_playlist
+3.0,74.0,2.68,72.0,hip hop,hip hop/rap,0.0,F,16.0,-3.82,minor,7.0,SPEAK NOW,2024,"Moneybagg Yo,Morgan Wallen",00vR63trn1CzygcjgAFaiM,WHISKEY WHISKEY (feat. Morgan Wallen),65,152,71.0,1
+20.0,69.0,6.54,52.0,hip hop,hip hop/rap,0.0,F,49.0,-9.72,major,16.0,3.15.20,2020,"Childish Gambino,21 Savage,Ink,Kadhja Bonet",011ZwIM48eD8ee2UBpG8nK,"12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",3,164,41.0,1
+60.2,77.0,8.2,73.4,rock,rock,3.11,C#,14.3,-8.029,major,13.5,Gentleman,1973,Fela Kuti,01M4pDUAFpAiuvtNSDRSlE,Fefe Naa Efe,27,93,68.6,0
+22.6,75.7,2.66,68.8,latin,global music,0.0,A,23.7,-4.546,major,11.2,Más Futuro Que Pasado,2019,Juanes,02lGHA7bFFplYLihnUWTx8,Tequila,77,156,70.4,0
+45.4,51.2,2.66,23.0,rock,rock,0.01,C,5.08,-16.41,major,3.01,John Wesley Harding,1967,Bob Dylan,032kwZ9kg4yIaIPBOOIwlm,I'll Be Your Baby Tonight,37,128,45.7,1
+0.0873,26.4,4.63,98.1,edm,edm/house/dance,38.4,F#,11.2,-2.909,minor,5.26,Payback,2013,Sandro Silva,03bF2V5oDkhYDrMY6m7ZLB,Payback - Original Mix,25,128,23.0,0
+0.544,76.0,4.4,59.5,rap,hip hop/rap,0.0,C#,24.1,-6.366,major,3.91,Flockaveli,2010,Waka Flocka Flame,03tqyYWC9Um2ZqU0ZN849H,No Hands (feat. Roscoe Dash & Wale),74,131,36.1,0
+1.0,82.0,3.18,74.0,afrobeats,afrobeats,0.0,A,10.0,-6.83,minor,8.0,Know Your Worth (feat. Davido & Tems),2020,"Khalid,Disclosure,Davido,Tems",04QTmCTsaVjcGaoxj8rSjE,Know Your Worth (feat. Davido & Tems),59,103,67.0,1
+9.86,88.8,4.03,57.7,rap,hip hop/rap,0.0,C#,13.1,-7.702,minor,6.12,New Joc City (Explicit Content U.S. Version),2006,Yung Joc,05Sgj1Hx03ZXc57gsV1kfX,It's Goin' Down (feat. Nitti),65,84,60.9,0
+18.0,33.0,4.11,53.0,jazz,jazz,0.0,C,33.0,-11.23,major,5.0,Both Directions At Once: The Lost Album (Deluxe Version),2018,John Coltrane,05hSCC5hwv2rR4EyuslURV,Impressions - Take 1,18,81,69.0,1
+13.1,63.8,2.8,81.8,pop,pop,0.0018,A,10.7,-4.517,minor,5.0,Talk (Alle Farben Remix),2019,Khalid,06BrHnTVDOydsfg0LZ6mQb,Talk - Alle Farben Remix,56,126,48.9,0
+3.86,68.6,3.45,61.3,pop,pop,0.0,D,25.1,-5.614,major,6.9,With You (Frank Walker Remix),2019,Tyler Shaw,06Z7Hy2LUzbcSFmWzwkun1,With You - Frank Walker Remix,49,105,45.2,0
+96.4,55.9,2.5,15.1,jazz,jazz,0.8,G#,15.6,-11.53,major,7.71,Complete Sarah Vaughan Masters 1944-1952,2024,Sarah Vaughan,06g1Ng516askYyKHG0tRkR,Interlude (A Night in Tunisia),6,99,45.2,1
+76.0,54.0,2.77,60.0,folk,folk,0.0,A,16.0,-8.85,minor,4.0,star-crossed,2021,Kacey Musgraves,06tKb2aBA9sma7Sftu7kSw,keep lookin’ up,44,61,32.0,1
+1.0,59.0,3.0,78.0,rock,rock,0.0,B,7.0,-10.05,minor,24.0,Blunderbuss,2012,Jack White,07AjyDeE85pDr4Dj8BzgWB,I'm Shakin',49,81,76.0,1
+0.064,83.7,3.94,72.6,edm,edm/house/dance,68.5,C#,6.85,-4.913,major,10.3,Cigarette,2019,Fatesky,07Y1gaU5oQfWm0WTyaQR4D,Cigarette,33,124,53.2,0
+15.0,42.0,7.6,56.0,hip hop,hip hop/rap,0.0,C#,12.0,-8.73,major,16.0,Finding Forever,2007,Common,07ZupLQ6Ao03TZprc7oMYX,Forever Begins,9,98,51.0,1
+2.0,74.0,2.61,68.0,hip hop,hip hop/rap,0.0,C#,8.0,-5.84,major,36.0,Back At It (feat. Lil Baby),2020,"Lil Mosey,Lil Baby",07twUUK8jWUCVsrSoEgbLW,Back At It (feat. Lil Baby),40,165,72.0,1
+9.61,77.2,4.68,76.5,latin,global music,0.0,G,10.7,-4.576,minor,6.6,Por Contarle Los Secretos,2019,Jon Z,07yM5vxBxAIXWzNqu1BnF6,Por Contarle Los Secretos,67,144,39.2,0
+0.0,50.0,3.92,80.0,pop,pop,0.0,C#,10.0,-5.91,major,4.0,the record,2023,"boygenius,Julien Baker,Phoebe Bridgers,Lucy Dacus",09DR0sHnQUhHOiSNttc1mv,Not Strong Enough,72,127,31.0,1
+9.0,56.0,4.27,78.0,hip hop,hip hop/rap,0.0,A#,8.0,-5.11,minor,5.0,READY,2017,Ella Mai,0At2qAoaVjIwWNAqrscXli,Boo'd Up,66,82,24.0,1
+29.1,25.5,4.96,37.2,rock,rock,0.0,E,26.9,-16.437,minor,4.24,Scott,1967,Scott Walker,0AyAhgf2sihNnGt1ymLhg2,My Death,24,82,39.2,0
+86.1,60.5,13.45,20.5,jazz,jazz,45.8,F,11.4,-11.77,major,5.22,"All That Jazz, Vol. 44: Miles Davis, Vol. 3 – Cool Boplicity in Hackensack (Remastered 2015)",2015,Miles Davis,0Bvjb6BHDKfSpaFNuASHny,Walkin',18,126,48.6,1
+60.4,65.8,6.3,67.5,rock,rock,0.0,A,4.28,-10.967,major,24.2,Beggars Banquet,1968,The Rolling Stones,0DQtwZLpvln583U1WWv6To,Sympathy For The Devil,3,116,58.7,0
+0.418,62.3,3.65,92.9,edm,edm/house/dance,0.478,F#,14.2,-3.127,major,9.46,Love For Latinas,2019,Kramder,0DjBIx0EIjHd8aQFt4Krgo,Love For Latinas - Radio Edit,31,125,70.4,0
+1.58,46.6,3.94,88.9,rock,rock,0.131,B,25.3,-5.301,minor,11.5,Absolute Rock Anthems,2008,Ram Jam,0DzwkXawqzpt0k7jxjfdEf,Black betty,2,118,77.3,0
+26.4,50.3,3.11,75.4,pop,pop,0.0059,G,29.7,-3.634,major,4.24,2 Hearts (feat. Gia Koka),2020,Sam Feldt,0EdgK7ASb4kfRkW8pVMN02,2 Hearts (feat. Gia Koka),70,117,59.7,0
+1.0,57.0,3.87,69.0,reggaeton,global music,0.0,F#,17.0,-8.23,minor,5.0,UN DIA (ONE DAY) (Feat. Tainy),2020,"J Balvin,Dua Lipa,Bad Bunny,Tainy",0EhpEsp4L0oRGM0vmeaN5e,UN DIA (ONE DAY) (Feat. Tainy),68,168,39.0,1
+48.6,49.4,4.34,66.1,rock,rock,80.6,A#,11.6,-7.54,minor,4.7,Emmaar,2014,Tinariwen,0Etl0p4Z6doS0xFxqdhrOn,Toumast Tincha,46,90,20.4,0
+66.3,79.8,4.53,60.0,latin,global music,0.0003,D#,12.2,-5.415,minor,11.6,Herejías,2015,Gordo Sarkasmus,0GK06YlGqg7NcytdQXZiQQ,Wild In Saint Antoine,36,86,91.9,0
+16.9,65.4,3.07,87.4,pop,pop,0.0002,F#,13.4,-3.885,major,5.43,Brave,2019,Don Diablo,0GRoERSBBky3YgdKW2w2Vc,Brave,68,120,54.2,0
+2.0,92.0,2.61,63.0,hip hop,hip hop/rap,0.0,C#,15.0,-5.17,major,38.0,Wanna Be (with Megan Thee Stallion),2024,"GloRilla,Megan Thee Stallion",0Izt8MdEU7zDy2hDsm5YkH,Wanna Be (with Megan Thee Stallion),67,135,41.0,1
+63.0,54.0,4.18,82.0,rock,rock,4.0,F,30.0,-10.14,major,4.0,With A Little Help From My Friends,1969,Joe Cocker,0Jl5bIEve3A4axcjY3EgDZ,Feelin' Alright,59,90,90.0,1
+33.4,68.5,3.27,71.2,pop,pop,0.0001,F#,4.7,-4.302,minor,8.94,You Deserve Better (Andrelli Remix),2018,James Arthur,0JumfyG7GUshFjxouEXwhw,You Deserve Better - Andrelli Remix,53,115,48.3,0
+41.0,55.0,4.36,38.0,soul/funk/motown,soul/funk/motown,0.0,F,6.0,-14.44,major,3.0,Introducing The Hardline According To Sananda Maitreya,1987,Sananda Maitreya,0Lz1NsgPykKrwVnsFCmY2R,Who's Loving You,36,80,49.0,1
+0.158,75.9,2.54,81.7,edm,edm/house/dance,5.12,C#,31.7,-2.931,major,4.51,ADHD,2019,Hasse de Moor,0NBG8XHD1xri39FtzwVelX,ADHD,41,128,17.7,0
+51.0,80.0,2.18,24.0,r&b,r&b,4.0,G,10.0,-11.31,major,16.0,Lovergirl,2020,Andrea Valle,0O8eJs6ACqUfvVC7Ly6Gap,Know You Bare,0,97,80.0,1
+20.0,96.0,3.46,46.0,hip hop,hip hop/rap,0.0,A,16.0,-8.68,major,27.0,Don't Rush (feat. Headie One),2019,"Young T & Bugsey,Headie One",0PXukVbYpvz40KcEFKnIw7,Don't Rush (feat. Headie One),57,108,32.0,1
+2.0,31.0,4.67,93.0,soul/funk/motown,soul/funk/motown,0.0,B,11.0,-6.4,major,13.0,Purple Rain,1984,Prince,0QeI79sp1vS8L3JgpEO7mD,Let's Go Crazy,20,196,38.0,1
+3.35,90.7,5.64,66.0,rock,rock,19.4,C#,11.2,-11.951,minor,4.59,Obaa Sima,2015,Ata Kak,0RleEAKmcUbJ3R7AK0dSfV,Obaa Sima,42,131,97.3,0
+4.0,76.0,3.18,54.0,pop,pop,0.0,A,9.0,-6.04,minor,3.0,Señorita,2019,"Shawn Mendes,Camila Cabello",0TK2YIli7K1leLovkQiNik,Señorita,75,117,75.0,1
+69.9,23.6,4.08,82.3,rock,rock,64.3,E,36.4,-7.165,major,8.63,Playlist: New Wave,2008,Sid Vicious,0TaWdoJiAJoln9OQ1RbdNs,My Way - 1993 Remastered Version,43,175,25.9,0
+84.0,52.0,3.73,37.0,jazz,jazz,0.0,C,11.0,-9.35,major,3.0,Chet Baker Sings And Plays (Remastered 2004),1955,Chet Baker,0UZFhlhUMrYyzzyOHkylM3,Let's Get Lost,52,78,55.0,1
+17.0,90.0,2.87,69.0,hip hop,hip hop/rap,0.0,A,10.0,-5.09,major,17.0,Princess Diana (with Nicki Minaj),2023,"Ice Spice,Nicki Minaj",0ZxhtATQ0a6EvQNZ0z6NKV,Princess Diana (with Nicki Minaj),68,148,77.0,1
+10.0,61.0,3.41,84.0,hip hop,hip hop/rap,0.0,C#,43.0,-5.73,minor,23.0,Finding Forever,2007,Common,0aIljv7XHkETklMyymrZVt,The People,26,93,49.0,1
+81.0,42.0,5.63,2.0,jazz,jazz,0.0,D,10.0,-25.36,minor,4.0,Kind Of Blue (Legacy Edition),1959,"Miles Davis,John Coltrane,Bill Evans",0aWMVrwxPNYkKmFthzmpRi,Blue in Green (feat. John Coltrane & Bill Evans),62,110,15.0,1
+31.8,82.2,2.66,58.6,rap,hip hop/rap,0.0,D,11.3,-6.834,minor,11.2,PUB G (feat. Branco & Larry 44),2019,LOLO,0alp0O9d7KTtAF1QnBqqiv,PUB G (feat. Branco & Larry 44),69,118,29.7,0
+13.4,79.2,3.33,53.8,rap,hip hop/rap,0.0016,C,10.1,-6.641,minor,33.7,Kiko,2019,Gilli,0atWq5Ua1ax7zMKDjSQEpg,Dag 1,56,140,39.0,0
+1.45,73.3,3.73,83.9,pop,pop,0.0187,C#,16.2,-2.84,minor,3.35,Close To Me (Remixes),2019,Ellie Goulding,0byab45cmZntz74RxcASrf,Close To Me (with Diplo) (feat. Swae Lee) - Felix Cartal Remix,9,126,47.1,0
+0.0983,74.6,2.63,82.8,edm,edm/house/dance,88.8,F#,10.5,-12.369,minor,6.43,Sam Smith,2019,Dan McKie,0bzYxcZv8NUmIYUu5JSQ1j,Sam Smith,36,127,44.2,0
+15.0,85.0,1.9,70.0,r&b,r&b,0.0,C,32.0,-3.29,major,8.0,Lil Boo Thang,2023,Paul Russell,0cVyQfDyRnMJ0V3rjjdlU3,Lil Boo Thang,79,114,92.0,1
+21.9,67.7,4.9,53.1,r&b,r&b,0.0,G,17.3,-7.683,minor,3.27,More,2004,Tamia,0ceeRNqbOzRiGE42KWSrRa,Into You (feat. Fabolous),42,91,57.0,0
+16.0,54.3,4.69,73.1,rock,rock,0.0,F#,10.3,-8.06,major,2.91,All Things Must Pass (50th Anniversary;Super Deluxe),1970,George Harrison,0hMvI4iye2BtqOPL57qfya,My Sweet Lord (2020 Mix),45,121,71.8,1
+8.0,51.0,4.98,59.0,hip hop,hip hop/rap,0.0,A#,9.0,-8.74,major,13.0,Love In Flying Colors,2013,"The Foreign Exchange,Shana Tucker,Eric Roberson",0hihs6rrk3eL2iRS0xzmpX,Better (feat. Shana Tucker & Eric Roberson),26,93,65.0,1
+1.05,82.3,3.41,62.2,latin,global music,0.0003,B,4.53,-5.706,major,4.91,Nibiru,2019,Ozuna,0iQmZXv7e8EHcmJmHpZX3o,Eres Top,72,100,60.2,0
+32.0,43.8,5.22,44.7,rock,rock,0.839,E,6.69,-11.569,major,10.2,Tilt,1995,Scott Walker,0jPibF4bsrW5kLxEWYoxM7,Tilt,15,90,28.7,0
+2.2,73.1,2.98,80.2,pop,pop,0.0,F,5.9,-4.763,major,6.23,Magnets (feat. Sophie Simmons),2019,Sam Feldt,0jlpHhGUFn4aAWLsRRnwep,Magnets (feat. Sophie Simmons),62,122,43.4,0
+1.0,77.0,3.25,89.0,hip hop,hip hop/rap,0.0,G,40.0,-2.99,major,10.0,Cuz I Love You,2019,Lizzo,0k664IuFwVP557Gnx7RhIl,Juice,66,120,84.0,1
+4.87,70.0,3.63,97.4,edm,edm/house/dance,3.08,F#,44.6,-4.65,minor,11.0,Mo Fo,2019,Koos,0nsG0DmswNIw4MXKVOeplj,Mo Fo,37,128,62.6,0
+21.5,84.8,2.83,67.2,rap,hip hop/rap,0.0,A#,17.8,-5.728,minor,27.5,La Trompeta (feat. MellemFingaMuzik),2020,Camur,0oHSxbawtdWBH9N8SqCjfq,La Trompeta (feat. MellemFingaMuzik),49,105,85.9,0
+71.8,52.2,2.91,50.3,r&b,r&b,0.0003,B,9.35,-6.198,minor,5.43,6,2017,Skinny Living,0qhpOEJtpTFG98mHk7VOZJ,Why,56,133,36.7,0
+3.09,74.4,5.86,65.1,edm,edm/house/dance,49.4,G#,66.1,-8.252,major,8.4,Artist Pack,2018,Liquid Soul,0qrFfUaAxs0LEodNCuY6r8,We Come In Peace - Talpa Remix,41,138,19.0,0
+0.501,57.8,3.42,91.9,edm,edm/house/dance,55.6,A,26.7,-6.158,minor,5.8,The Wave 2.0,2019,Cosmic Gate,0s3RMQJCObJ60jDI9iOzjZ,The Wave 2.0,29,130,8.53,0
+9.43,55.5,2.7,98.9,edm,edm/house/dance,33.4,F#,34.6,-2.521,minor,4.88,Why,2016,Klaas,0t6NrHyr4HSXZRM1sKQnx2,Why - Original Edit,17,128,70.1,0
+4.0,54.0,5.34,51.0,hip hop,hip hop/rap,0.0,D,9.0,-8.93,minor,25.0,The Miseducation of Lauryn Hill,1998,Ms. Lauryn Hill,0uEp9E98JB5awlA084uaIg,Doo Wop (That Thing),75,100,50.0,1
+5.0,66.0,1.72,59.0,latin,global music,0.0,A,8.0,-5.04,major,5.0,Penas con Pan,2022,La Doña,0va257dK5KpE35Gd2EHH7E,Penas con Pan,33,170,75.0,1
+3.0,79.0,2.45,72.0,hip hop,hip hop/rap,0.0,A#,21.0,-3.45,minor,9.0,Jump,2024,"Tyla,Gunna,Skillibeng",0ve0CavjqrUqVmZ605RhTV,Jump,69,100,63.0,1
+38.0,64.0,3.39,37.0,jazz,jazz,0.0,G,19.0,-9.63,major,3.0,I Never Loved a Man the Way I Love You,1967,Aretha Franklin,0xGcAq56TXf3RnSHkCiL9k,Dr. Feelgood (Love Is a Serious Business),37,142,36.0,1
+0.049,72.6,5.81,76.7,edm,edm/house/dance,58.9,B,31.3,-4.367,minor,4.08,Slow It Down,2019,PRINSH,0zeoeHdThN0z9V8AAaQ2ML,Slow It Down,28,124,34.4,0
+32.0,51.0,3.91,46.0,soul/funk/motown,soul/funk/motown,0.0,B,65.0,-7.66,major,4.0,Throwback Tunes: 70s,2017,Dobie Gray,11YWR8tzDTR2P4KZ3lAySj,Drift Away,48,76,57.0,1
+0.809,74.6,3.37,86.3,latin,global music,0.006,F#,57.0,-7.723,minor,17.1,Merry Go Round,2001,Delinquent Habits,125Lz4KWSwhCvtP44FkKQI,House of the Rising Drum,35,104,86.9,0
+2.0,80.0,3.06,69.0,hip hop,hip hop/rap,0.0,A#,7.0,-6.74,minor,10.0,Girl Eats Sun,2020,"Hope Tala,Aminé",13z7RLPmgupzRwQY9NiTZU,Cherries,47,90,77.0,1
+14.7,69.4,2.96,84.2,latin,global music,0.0001,D,26.1,-4.91,major,6.24,Nadie Como Tu,2019,Amenazzy,14Q3OrXMvSTCJvqeSNXovU,Nadie Como Tu,67,105,75.3,0
+8.35,71.1,3.48,72.4,pop,pop,0.0,G,3.89,-4.809,major,10.6,Blue,2018,Jonas Blue,14nIFzHQf1OBWf6VHVR8DF,Wherever You Go,21,104,47.8,0
+70.0,68.3,3.57,51.7,jazz,jazz,0.0,C,10.9,-11.86,minor,23.0,Elis & Tom,1974,"Elis Regina,Antônio Carlos Jobim",15ouqiBsgL12olEwP3COsH,Águas De Março,64,144,67.3,1
+11.3,54.9,3.35,51.7,rock,rock,25.5,C#,20.5,-13.633,major,2.39,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",2017,Amanaz,17WvocrxbKL2t7HyoSpSCK,Khala My Friend,37,88,63.5,0
+2.83,56.4,3.06,72.9,edm,edm/house/dance,0.0022,D#,13.4,-4.897,major,4.23,Ruled the World,2017,Hogland,185KiwRpwjqe52jyaRUBFn,Ruled the World,58,128,17.5,0
+5.73,42.4,4.71,69.4,edm,edm/house/dance,0.0937,F#,13.3,-4.912,minor,3.86,Mistaken (feat. Alex Aris),2019,Martin Garrix,18KjYhghq6K3ZmfcewWDp6,Mistaken (feat. Alex Aris),68,128,8.01,0
+21.2,84.5,3.27,76.6,pop,pop,0.0,D,11.1,-5.727,minor,6.58,South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix],2019,Ed Sheeran,19TOAlTFq0NDHvUPQR0tkr,South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix,69,114,78.2,0
+4.34,57.7,2.67,97.5,edm,edm/house/dance,0.0166,D,19.0,-2.841,major,6.56,Oh Baby,2019,Martin Mix,1A80HRxJMhn6YAxqRup4BQ,Oh Baby,37,126,41.6,0
+12.7,73.3,2.58,70.0,rap,hip hop/rap,0.0,D,10.4,-5.734,minor,19.4,A NIVEAU,2019,ATYPISK,1Adv24faBNfctHoOJYoJLX,Fra Gaden (feat. Benny Jamz),55,90,37.8,0
+46.0,41.0,5.46,40.0,soul/funk/motown,soul/funk/motown,0.0,C#,21.0,-12.48,major,34.0,Brown Sugar,1995,D'Angelo,1AeqdOUul6h2wVmqCL9thP,Higher,38,68,53.0,1
+4.95,86.5,2.95,62.4,rap,hip hop/rap,0.0151,E,8.65,-4.758,minor,7.79,Spice up your life,2020,Benjamin Hav,1CPylrbel65jjZ2jcAuCH0,Dig,51,104,39.9,0
+2.0,75.0,4.03,36.0,r&b,r&b,0.0,G,28.0,-10.38,major,28.0,The Velvet Rope,1997,"Janet Jackson,Q-Tip,Joni Mitchell",1EhvYd5e7vkoN3udEN1Vyl,Got 'Til It's Gone,61,90,53.0,1
+2.16,59.0,3.1,88.8,pop,pop,0.0,F,48.7,-2.851,major,7.65,High Hopes (Don Diablo Remix),2019,Panic! At The Disco,1FlIzyCvRFQUE4pc7PiaIo,High Hopes - Don Diablo Remix,60,126,28.8,0
+3.68,28.6,6.53,89.5,rock,rock,5.9,A,11.6,-7.547,minor,5.44,Highway Stars,2006,Megarock Hits,1GuflZBOKGX6uCFXdysSU2,Highway Star - Deep Purple,0,174,39.1,0
+13.0,52.0,4.59,76.0,rock,rock,0.0,D,10.0,-9.81,major,4.0,Can't Buy A Thrill,1972,Steely Dan,1I7zHEdDx8Ny5RxzYPqsU2,Reelin' In The Years,3,135,77.0,1
+11.6,71.2,3.28,64.6,pop,pop,0.0,F,12.3,-4.23,major,18.2,Happier (Remixes),2018,Marshmello,1IjuevPDJ8Sa97wFwQ5j4V,Happier - Frank Walker Remix,51,105,60.7,0
+0.0,72.0,3.41,89.0,rock,rock,0.0,B,30.0,-7.82,major,10.0,The Essential Bangles,2004,The Bangles,1Jwc3ODLQxtbnS8M9TflSP,Walk Like an Egyptian,61,103,82.0,1
+6.08,82.4,2.47,71.6,rap,hip hop/rap,0.0,G,26.2,-4.504,minor,7.32,Flytilstand,2019,Benny Jamz,1KKayLqz1vq8jdyRiYSVyx,Flytilstand,61,100,32.9,0
+0.116,64.9,3.28,80.4,latin,global music,0.811,G#,10.6,-7.293,major,25.2,Los Grandes Éxitos En Español,1999,Cypress Hill,1Ka5HDqeiKARfY79ATb7pA,Ilusiones (Illusions) - Spanish Edit,40,182,68.6,0
+13.3,57.5,2.51,59.6,rock,rock,0.0,A,4.79,-10.579,major,7.52,Super Hits,2000,Mountain,1KvFwIDhxZlVGXahX8QIGV,Mississippi Queen,7,140,72.1,0
+0.41,74.9,4.38,74.5,edm,edm/house/dance,39.5,F#,7.48,-7.367,minor,4.79,In Return,2014,ODESZA,1LeItUMezKA1HdCHxYICed,Say My Name (feat. Zyra),66,115,34.7,0
+8.0,47.0,3.84,76.0,rock,rock,0.0,A#,13.0,-6.33,major,5.0,Ain't No Harmin' Me,2023,The War And Treaty,1LnTC50m1LHC36jtKo0UJk,Ain't No Harmin' Me,22,89,28.0,1
+19.0,71.0,4.42,60.0,rock,rock,0.0,G#,12.0,-5.52,major,3.0,Gettin' Old,2023,Luke Combs,1Lo0QY9cvc8sUB2vnIOxDT,Fast Car,82,98,67.0,1
+33.2,84.9,3.3,71.2,latin,global music,0.0,A#,6.88,-4.398,major,29.0,Navegando,2019,Mike Bahía,1MYMEtHi6fmmGiDFLrBiY3,La Lá,68,94,48.6,0
+3.68,51.6,3.31,85.7,pop,pop,0.0,C,26.4,-3.432,minor,4.63,Discovery,2019,Syn Cole,1MgpEKnO6sgMTb5zumAsgn,Discovery,55,128,44.8,0
+70.0,44.0,4.79,44.0,jazz,jazz,48.0,C,18.0,-14.23,major,5.0,Best Of Jazz Bass,2013,Charles Mingus,1N1rSR5jV0Bln3z73lfGbH,II B.S.,0,107,69.0,1
+43.0,64.0,2.86,49.0,soul/funk/motown,soul/funk/motown,0.0,C,15.0,-9.31,major,3.0,Greatest Hits: From The Beginning,1965,The Miracles,1QOpwPQpuOmNoOmMMXCepp,You Really Got A Hold On Me - Mono,35,118,74.0,1
+69.1,30.6,4.61,55.7,pop,pop,1.53,F,10.3,-9.69,minor,3.43,Every Day Like the Last,2023,Wye Oak,1Qd8eeihda5T8hrj6AGH2b,Its Way With Me,16,92,36.4,1
+3.0,71.0,4.75,73.0,soul/funk/motown,soul/funk/motown,0.0,B,7.0,-9.22,major,4.0,Innervisions,1973,Stevie Wonder,1QvWxgZvTU0w8rlPRE5Zrv,Don't You Worry 'Bout A Thing,59,125,92.0,1
+79.0,50.0,3.26,19.0,r&b,r&b,0.0,G#,16.0,-11.12,major,3.0,For My Friends,2021,Jacob Banks,1RDz34JJrGPn5msAXvnvoO,Found,46,61,23.0,1
+81.0,52.0,3.5,36.0,hip hop,hip hop/rap,0.0,G,10.0,-10.21,major,4.0,Freudian,2017,Daniel Caesar,1RMJOxR6GRPsBHL8qeC2ux,Best Part (feat. H.E.R.),84,75,44.0,1
+0.0324,72.3,3.71,84.1,rock,rock,17.4,A,10.2,-8.649,major,4.81,Hot Rocks 1964-1971,1971,The Rolling Stones,1RvuWdj9YsXn4cMMLXr85Z,(I Can't Get No) Satisfaction - Mono Version / Remastered 2002,0,136,85.4,0
+0.377,55.3,2.84,95.4,edm,edm/house/dance,4.29,G,40.8,-2.883,major,5.75,Never Change,2019,Don Diablo,1SG6r7daFfpzPcU15luVqB,Never Change,72,126,23.6,0
+0.002,35.1,3.76,92.3,rock,rock,11.6,F#,33.7,-2.435,minor,5.37,An End Has a Start,2007,Editors,1U2xFfjK1QUuicENnW0iwv,An End Has a Start,53,150,54.3,0
+72.4,52.5,4.58,45.9,rock,rock,0.0,C,50.2,-8.22,major,7.02,Chicago Transit Authority,1969,Chicago,1UTweT08J2Yxn5h0O7uL5e,Does Anybody Really Know What Time It Is? - 2002 Remaster,40,118,26.4,1
+10.0,61.0,3.03,82.0,soul/funk/motown,soul/funk/motown,1.0,D,5.0,-9.38,minor,5.0,Dance Party,1965,Martha Reeves & The Vandellas,1WPqawIF9HCKfSOt7mN6X0,Nowhere To Run,59,129,88.0,1
+54.0,45.0,5.4,26.0,jazz,jazz,0.0,G#,7.0,-13.19,minor,4.0,Time Out,1959,The Dave Brubeck Quartet,1YQWosTIljIvxAgHWTp7KP,Take Five,67,174,60.0,1
+0.908,70.7,2.72,80.6,pop,pop,0.0,F#,36.6,-4.777,major,17.5,All The Lies (Remixes),2019,Alok,1YSwQvw1NrEPfA0j1iY8eV,All The Lies - Toby Romeo Remix / Radio Edit,56,120,63.4,0
+12.0,83.0,4.8,81.0,hip hop,hip hop/rap,0.0,G#,5.0,-2.15,major,10.0,Greatest Hits,1998,"2Pac,K-Ci & JoJo",1ZB2zIoc8AjSuyqKRcJgbO,How Do U Want It,55,92,84.0,1
+20.3,71.4,3.86,68.6,r&b,r&b,0.0008,B,10.2,-6.333,major,4.45,Chapters,2019,James TW,1bQhZOoXYqjXs7u7rFXo0h,You & Me,77,127,82.8,0
+48.8,47.2,4.65,65.5,r&b,r&b,0.0,C#,68.8,-8.39,minor,5.61,Good Days,2020,SZA,1bWh6WbYzSFxsOKzE4EpUu,Good Days,52,121,41.6,1
+17.0,49.0,4.98,57.0,hip hop,hip hop/rap,0.0,G,12.0,-7.01,major,30.0,Energy,2018,"Sampa the Great,Nadeem Din-Gabisi",1bj5ZFpxGFP5ooQcctNVB4,Energy,51,90,31.0,1
+26.0,42.0,4.97,80.0,soul/funk/motown,soul/funk/motown,0.0,C,21.0,-9.79,minor,7.0,Innervisions,1973,Stevie Wonder,1bpaA5Pn4jlo1cRAOBNQnh,Golden Lady,46,102,55.0,1
+16.0,83.0,2.97,52.0,afrobeats,afrobeats,53.0,G#,11.0,-10.87,minor,14.0,Born in the Wild,2024,Tems,1eDI5oU04SLsXl0TfxfwYf,Love Me JeJe,72,104,53.0,1
+18.0,52.0,3.33,91.0,hip hop,hip hop/rap,0.0,F#,9.0,-3.33,minor,34.0,Made It,2020,Teyana Taylor,1fyZR63zCjiR35K3fxDC1q,Made It,23,96,77.0,1
+37.0,89.0,3.88,31.0,rock,rock,0.0,A,10.0,-16.09,minor,6.0,Nick Of Time,1989,Bonnie Raitt,1gqk2dawfdLdn4XamF27cx,Nick Of Time,50,118,78.0,1
+2.89,90.1,3.96,61.5,latin,global music,0.0031,C#,5.78,-9.837,minor,37.7,Los Grandes Éxitos En Español,1999,Cypress Hill,1hSJnfkEqbGF5afz5aqKqi,Siempre Peligroso - feat. Fermin IV Caballero of Control Machete,50,92,67.4,0
+63.0,73.0,3.44,56.0,latin,global music,0.0,F,11.0,-7.97,major,3.0,Tú,2019,maye,1jecO8NeYLsVWVptITz4c1,Tú,63,115,73.0,1
+6.93,70.3,3.06,87.9,pop,pop,0.0,C#,31.5,-4.514,minor,17.7,Can We Pretend (feat. Cash Cash) [Sigala Remix],2019,P!nk,1k08GK7ox8SDmEMvn81TwU,Can We Pretend (feat. Cash Cash) - Sigala Remix,57,125,54.2,0
+3.01,86.8,7.67,74.4,reggae,global music,0.5,G,17.2,-8.57,major,5.02,Exodus,1977,Bob Marley & The Wailers,1lRkDJ9hMuiE1GZOlbgkam,Exodus,57,133,96.1,1
+6.63,39.3,2.45,94.0,edm,edm/house/dance,0.264,F#,54.6,-3.894,minor,7.18,Whatcha Need,2017,W&W,1m1b7GOZ2dh3UMI9NHkIei,Whatcha Need,28,130,29.7,0
+13.6,85.0,3.07,53.0,edm,edm/house/dance,7.63,D,27.1,-8.546,major,12.5,Flow (Original Mix),2018,Kaan Pars,1nFHoftXiDCKaXCLzelFYv,Flow (Original Mix),38,124,28.8,0
+14.6,76.3,2.64,70.8,edm,edm/house/dance,0.0,F,33.0,-5.692,minor,20.9,24K Magic (R3hab Remix),2017,Bruno Mars,1nSzCAvAvzJj5oIt7m90G0,24K Magic - R3hab Remix,59,106,56.6,0
+18.0,69.0,3.4,36.0,reggae,global music,0.0,C,11.0,-9.57,major,6.0,In The Dark,1973,Toots & The Maytals,1q8gelFgFYUwoWpQV7WNCe,54-46 Was My Number,62,160,60.0,1
+12.0,50.0,3.23,58.0,reggaeton,global music,0.0,E,12.0,-7.88,minor,15.0,Tempted,2023,J'calm,1qmoBuSioVcdk6PzpomMMg,Tempted,43,96,14.0,1
+0.0347,28.3,5.9,84.9,rock,rock,0.246,A,13.2,-7.148,major,15.8,Lords Of Dogtown,2005,Black Sabbath,1sPTEnb7kZhNRavK7BQEW4,Iron Man,0,157,53.6,0
+1.18,79.5,4.91,61.1,edm,edm/house/dance,88.4,F#,9.1,-16.401,major,7.27,Prophecies,2019,The Janitor,1tcopkXao8UXreKCxzC4vu,Too Many,30,130,38.9,0
+0.0752,38.9,3.59,91.5,edm,edm/house/dance,1.33,F#,12.2,-3.261,major,4.56,Faded (Remixes),2016,Alan Walker,1uWqDjZATn502optPrBt4S,Faded - Dash Berlin Remix,2,128,9.43,0
+46.5,29.4,7.52,82.5,rock,rock,8.41,D,35.4,-3.771,major,4.04,(What's The Story) Morning Glory? [Remastered],1995,Oasis,1wo3UYTeizJHkwYIuLuBPF,Champagne Supernova - Remastered,66,150,12.2,0
+6.15,80.3,4.77,74.9,rap,hip hop/rap,0.327,A#,6.94,-5.953,major,21.9,The Truth,1999,JAY-Z,1xixUOjgdqMOPZxursTms3,Anything,47,82,90.1,0
+12.8,66.9,3.43,89.5,pop,pop,0.0,F,29.7,-3.787,minor,5.75,Wish You Well,2019,Sigala,1yAPglN5AGf7UoLK062ZYq,Wish You Well,75,125,57.6,0
+58.0,71.0,4.5,51.4,soul/funk/motown,soul/funk/motown,0.02,A,9.53,-8.89,minor,2.78,Picture Book (Expanded Version),1985,Simply Red,1yg7fwwYmx9DQ2TdXUmfpJ,Holding Back the Years - 2008 Remaster,67,86,51.7,1
+2.23,82.8,2.85,70.6,rap,hip hop/rap,0.0065,G,7.98,-6.597,minor,16.9,Bonnie & Clyde (Carmon X Alrima),2020,Carmon,21PXwOjWFh5XlwTia05t3p,Bonnie & Clyde (Carmon X Alrima),45,103,43.0,0
+74.1,48.6,4.08,41.9,r&b,r&b,0.01,F,9.6,-6.42,major,5.63,About Time,2017,Sabrina Claudio,21oJ1K99GBJrE2GVQGVjA0,Frozen,56,119,22.7,1
+8.54,60.8,2.55,69.3,rap,hip hop/rap,0.0,D#,5.02,-6.86,major,24.0,Text You Back (feat. Bryce Vine),2021,"brother sundance,Bryce Vine",23ER2vJTvdU9FNWdhYzETY,Text You Back (feat. Bryce Vine),21,167,75.1,1
+6.43,68.3,3.08,78.5,pop,pop,0.0013,G,17.7,-4.879,major,3.7,Roots,2019,Valerie Broussard,23FHa9lYnG6Dr8OzombPkS,Roots,69,123,58.1,0
+3.01,85.0,4.25,61.8,hip hop,hip hop/rap,0.0,A,19.3,-5.81,major,11.2,Culture III,2021,Migos,24PEtqBNoKG3umCTLd2r3N,Straightenin,27,136,10.8,1
+3.92,60.5,4.64,82.9,rap,hip hop/rap,0.0,A#,19.6,-2.377,minor,44.4,The Hunger For More,2004,Lloyd Banks,25YwwruYRtxe6RQdKtrZFS,Karma,57,176,70.8,0
+27.0,78.0,4.93,46.0,reggae,global music,0.0,B,4.0,-12.36,major,8.0,Funky Kingston,1973,Toots & The Maytals,26WPI2aksB9XdqmeLfca5z,Funky Kingston,53,99,96.0,1
+5.0,89.0,4.35,33.0,hip hop,hip hop/rap,6.0,C#,11.0,-18.94,minor,23.0,Reachin' (A New Refutation Of Time And Space),1993,Digable Planets,26q6YTrXt9l8qshIveiTX9,Rebirth Of Slick (Cool Like Dat),59,98,57.0,1
+0.693,84.0,3.99,83.7,edm,edm/house/dance,7.92,F#,10.9,-5.614,major,12.0,Housy Things,2019,DSN,26tjsspbM2bZCVW78qzzdH,Housy Things,33,124,46.6,0
+26.0,77.0,3.86,57.0,r&b,r&b,0.0,A#,7.0,-6.16,minor,11.0,Beautifully Human: Words and Sounds Vol. 2,2004,Jill Scott,28EL5veTZtx38TqxIZwFyQ,Golden,54,100,59.0,1
+34.0,44.0,3.67,86.0,soul/funk/motown,soul/funk/motown,0.0,E,47.0,-4.17,minor,36.0,Bigger Love,2020,"John Legend, Original Koffee",2A6BUUkV6TgT4QdLCXIDPl,Don't Walk Away (feat. Koffee),34,194,52.0,1
+36.0,76.0,3.22,48.0,reggae,global music,0.0,A,11.0,-8.2,minor,27.0,Natty Dread,1974,Bob Marley & The Wailers,2Ezmm08Oy4772SkEoC18Kt,Them Belly Full (But We Hungry),53,140,64.0,1
+6.0,72.0,2.85,71.0,pop,pop,0.0,A,8.0,-4.95,major,3.0,A Bar Song (Tipsy),2024,Shaboozey,2FQrifJ1N335Ljm3TjTVVf,A Bar Song (Tipsy),88,81,60.0,1
+79.0,83.0,2.29,77.0,r&b,r&b,0.0,C,50.0,-5.7,major,27.0,MOTOMAMI,2022,ROSALÍA,2FYGZDfsAnNsrm1gVbyKnG,SAOKO,63,100,73.0,1
+3.72,79.0,2.96,50.9,rap,hip hop/rap,0.0,B,14.4,-7.165,minor,24.2,Gadesoldat,2019,Beko,2Gb4mApBEJSEKq4HevgPmo,Gadesoldat,49,137,35.4,0
+4.0,48.0,2.44,67.0,rock,rock,73.0,C#,34.0,-7.77,major,6.0,Let's Rock,2019,The Black Keys,2GuXIMRlaxVLcU0a5jacHw,Go,51,150,72.0,1
+0.0,60.0,2.38,95.0,electronic,electronic,1.0,B,8.0,-4.26,major,4.0,i like the way you kiss me,2024,Artemas,2GxrNKugF82CnoRFbQfzPf,i like the way you kiss me,85,152,75.0,1
+29.1,72.9,3.87,41.4,hip hop,hip hop/rap,0.0,G,7.93,-6.14,minor,5.65,Pick Up Your Feelings,2020,Jazmine Sullivan,2JLVZYEMmqPWbUoAJAMKfm,Pick Up Your Feelings,46,86,56.5,1
+0.0052,44.3,3.45,95.6,rock,rock,82.5,D,13.5,-6.198,major,5.11,The Best Of,2008,Joy Division,2JO3HwMRPeya8bXbtbyPcf,Love Will Tear Us Apart,71,147,90.9,0
+6.0,69.0,4.64,89.0,r&b,r&b,0.0,C#,27.0,-5.04,minor,8.0,BREAK MY SOUL,2022,Beyoncé,2KukL7UlQ8TdvpaA7bY3ZJ,BREAK MY SOUL,61,115,85.0,1
+44.0,90.0,2.31,88.0,soul/funk/motown,soul/funk/motown,0.0,C#,6.0,-5.07,minor,4.0,The Way I See It,2008,Raphael Saadiq,2OPANrnimcwWcVQuDk8ibD,100 Yard Dash,37,110,93.0,1
+13.0,80.0,2.87,57.0,afrobeats,afrobeats,0.0,D#,8.0,-4.46,minor,9.0,Last Last,2022,Burna Boy,2PDgArI0p7UkeYgXWuqpmh,Last Last,2,88,55.0,1
+4.0,72.0,3.71,86.0,rock,rock,3.0,D,13.0,-7.89,major,3.0,Out Of Our Heads,1965,The Rolling Stones,2PzU4IB8Dr6mxV3lHuaG34,(I Can't Get No) Satisfaction - Mono Version,76,136,93.0,1
+54.0,41.0,5.84,50.0,folk,folk,0.0,C,11.0,-7.47,major,3.0,Keep Me on Your Mind/See You Free,2024,"Bonny Light Horseman,Eric D. Johnson,Josh Kaufman,Anaïs Mitchell",2QTW63ARNi7CZRgWKdjyx1,Old Dutch,39,103,35.0,1
+0.007,59.4,4.52,97.8,edm,edm/house/dance,0.0668,A#,36.3,-3.123,minor,13.8,When We Were Young (Remixes),2014,Dillon Francis,2QaPV3T0kcuXFAu5V39Bu8,When We Were Young - Juventa Remix,10,128,38.9,0
+0.253,49.1,3.46,74.8,rock,rock,82.1,E,10.7,-2.981,minor,3.62,South of Reality,2019,The Claypool Lennon Delirium,2RhrdmXvvtjoQrVfgvKF0p,South of Reality,28,153,59.4,0
+25.0,69.0,2.54,26.0,soul/funk/motown,soul/funk/motown,0.0,A#,18.0,-12.21,major,3.0,The South Side of Soul Street: The Minaret Soul Singles 1967-1976,2013,Big John Hamilton,2SIYttGoWnQ2FRlq6rTmkc,I Just Want to Thank You,0,106,80.0,1
+80.0,88.4,3.91,86.0,rock,rock,31.8,G#,14.5,-8.401,major,3.66,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",2017,Blackfoot,2TBhRXwBxfIJwhrB9gLlnn,Running,35,129,83.3,0
+2.34,80.9,3.54,52.1,latin,global music,0.0005,B,16.9,-8.256,major,8.24,Que Se Repita,2019,Rigo V,2TMcH3s1FmQP5rCVt2EpUj,Que Se Repita,44,95,47.4,0
+2.0,70.0,5.91,59.0,hip hop,hip hop/rap,1.0,C#,5.0,-8.75,minor,16.0,"Who Is Jill Scott? - Words and Sounds, Vol. 1",2000,Jill Scott,2U7X7mPD4wSp0capCGfpmM,It's Love,40,172,61.0,1
+11.6,68.5,2.79,69.8,rap,hip hop/rap,0.0,B,14.9,-4.395,minor,16.8,TÅLMODIGHED,2019,Carmon,2UKPAH82dhYC4bJgAGd1d7,MALDIVERNE (feat. KESI),54,96,46.2,0
+21.0,81.0,3.91,48.0,reggaeton,global music,0.0,D,8.0,-5.68,minor,33.0,La Bebe (Remix),2023,"Yng Lvcas,Peso Pluma",2UW7JaomAMuX9pZrjVpHAU,La Bebe - Remix,81,170,56.0,1
+19.0,77.0,3.81,36.0,soul/funk/motown,soul/funk/motown,0.0,C,8.0,-12.16,major,7.0,Gets Next to You,1971,Al Green,2UclV6Lu93Ssh1spktn0Fp,I Can't Get Next to You,40,113,55.0,1
+14.1,58.7,3.61,83.4,rock,rock,0.0001,D,19.4,-4.514,major,3.48,You Could Have It So Much Better,2005,Franz Ferdinand,2V6n1Pq26T0Rdp0jgy77xp,Walk Away,1,124,53.9,0
+31.0,65.0,4.14,84.0,hip hop,hip hop/rap,0.0,C,14.0,-4.32,major,21.0,Illmatic,1994,Nas,2W58HMaCbjcUfZnZaeHtcC,Memory Lane (Sittin' in da Park),57,90,62.0,1
+35.0,78.0,3.1,54.0,r&b,r&b,59.0,G#,20.0,-6.79,minor,11.0,We Go Again,2023,ENNY,2YIIDMcF9zWJ2xcFSA99lH,Charge It,65,127,62.0,1
+5.0,88.0,2.62,62.0,hip hop,hip hop/rap,0.0,F#,11.0,-5.56,major,10.0,7 EP,2019,"Lil Nas X,Billy Ray Cyrus",2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,72,136,64.0,1
+28.0,72.1,5.34,60.4,rock,rock,21.6,A#,22.5,-10.224,major,3.02,Secret Agent,2009,Tony Allen,2YvGLm7HGIRwzH1pgQDmRP,Secret Agent,1,120,95.0,0
+4.0,66.0,3.17,63.0,rock,rock,0.0,B,9.0,-6.94,minor,5.0,For What It's Worth,2020,Billy Porter,2ZBwoldduPeQoXBWePnrYV,For What It's Worth,31,96,77.0,1
+1.08,45.1,3.8,55.0,rap,hip hop/rap,0.0,C#,7.37,-8.137,major,26.2,Epiphany,2007,T-Pain,2aIdVb8v9KTpEZnftkz2mD,Buy U a Drank (Shawty Snappin'),76,80,59.4,0
+33.0,63.0,3.57,50.0,r&b,r&b,0.0,G,9.0,-8.34,major,14.0,Life On Earth - EP,2020,"Summer Walker,PARTYNEXTDOOR",2aSM4sbNN7cSmpYOG0sf46,My Affection (with PARTYNEXTDOOR),54,77,23.0,1
+81.0,68.0,3.26,47.0,jazz,jazz,0.0,F,11.0,-5.18,minor,10.0,Lullabies Of Birdland,1954,Ella Fitzgerald,2cvztQuBIxwV38kg1Ydaww,How High The Moon - 1st Take,41,113,63.0,1
+0.0421,59.5,3.87,87.0,latin,global music,4.55,F#,5.31,-7.984,major,18.6,Los Grandes Éxitos En Español,1999,Cypress Hill,2dWiyamUPrjm4Hi1HbzUGv,No Pierdo Nada (Nothin' To Lose) - Spanish Edit,33,112,90.7,0
+0.39,35.0,3.49,77.3,rock,rock,39.4,A,5.57,-5.632,major,3.6,Experience Hendrix: The Best Of Jimi Hendrix,2000,Jimi Hendrix,2eMxI1qN0ft88sasJrARw3,Hey Joe,0,167,49.1,0
+32.0,78.0,3.98,74.0,hip hop,hip hop/rap,0.0,C#,13.0,-8.07,minor,25.0,Mr. Morale & The Big Steppers,2022,"Kendrick Lamar,Blxst,Amanda Reifer",2g6tReTlM2Akp41g0HaeXN,Die Hard,72,101,36.0,1
+63.0,40.0,3.1,30.0,rock,rock,0.0,D,18.0,-9.0,major,3.0,Lyle Lovett And His Large Band,1989,Lyle Lovett,2gLYOZVuyfmy3TS1ICVyaD,Nobody Knows Me,33,92,27.0,1
+0.236,38.2,3.91,69.8,pop,pop,0.0052,F#,10.8,-3.409,major,3.74,Love You Forever,2019,Nicky Romero,2gqzTQEn4g5ly0n5ScdMx0,Love You Forever,61,128,15.1,0
+0.0293,85.9,3.07,28.3,r&b,r&b,1.36,C#,8.15,-7.613,major,22.9,L.O.V.E,2019,Devin Morrison,2hANHoUH1CiN2qhKkmmKpL,L.O.V.E,34,90,70.5,0
+39.0,74.0,3.49,55.0,hip hop,hip hop/rap,0.0,G#,7.0,-8.98,major,42.0,Circles,2020,Mac Miller,2hwOoMtWPtTSSn6WHV7Vp5,Blue World,70,85,51.0,1
+23.6,84.0,4.0,71.8,latin,global music,0.0048,A,9.68,-3.527,major,6.36,Buenos Amantes,2019,Japiaguar,2jT3L6H54Cze0Sv6AL5NRB,Buenos Amantes,45,156,86.4,0
+2.03,95.0,3.86,83.8,edm,edm/house/dance,0.076,B,27.3,-4.246,minor,18.0,Many Times,2019,Mike Gudmann,2jsn3BSceMAfXb8JGglkRE,Many Times,31,128,78.1,0
+33.0,71.0,4.07,71.0,hip hop,hip hop/rap,1.0,G,19.0,-6.13,major,6.0,Ego Death,2015,The Internet,2kBHv0gFA2iheTUXmPB9e1,Under Control,48,98,50.0,1
+78.0,33.0,2.29,60.0,jazz,jazz,0.0,E,8.0,-7.37,minor,5.0,Nina Simone Sings The Blues (Expanded Edition),1967,Nina Simone,2km9fkIwupyw4puhwcYnCP,Do I Move You - Version II,22,206,63.0,1
+67.0,62.0,3.7,29.0,r&b,r&b,0.0,D,12.0,-12.65,minor,20.0,I Can’t Even Cry,2024,Hope Tala,2knRILXCUzgUfP10oxsgk3,I Can’t Even Cry,45,149,62.0,1
+1.52,47.5,4.84,91.5,rock,rock,0.162,A,34.9,-3.565,major,6.08,The Essential Ozzy Osbourne,2003,Ozzy Osbourne,2nKOUDSm0EhVvQWoDyjl27,Crazy Train,4,137,59.0,0
+1.0,72.0,3.22,61.0,r&b,r&b,0.0,F,9.0,-6.58,minor,3.0,PARTYMOBILE,2020,PARTYNEXTDOOR,2o2bLG5JqlwSCZNsx9BvOs,PGT,0,117,64.0,1
+0.543,60.4,3.97,68.5,r&b,r&b,6.3,G,7.06,-5.679,major,2.77,MDRN LV,2019,Picture This,2oDkjSOpQALz7rEmsgekft,Everything Or Nothing,59,105,24.5,0
+5.0,84.0,3.72,48.0,hip hop,hip hop/rap,0.0,D,6.0,-7.33,major,33.0,The Master,1999,Rakim,2p9sprAX27D6U5cuSE9NsM,When I B On Tha Mic,61,96,84.0,1
+1.46,27.3,6.77,95.3,rock,rock,1.73,B,19.0,-8.76,major,7.68,Appetite For Destruction (Explicit Version),1987,Guns N' Roses,2pDPnlF496mf3EBwrTCHN2,Paradise City,2,100,44.5,0
+5.11,48.9,3.18,76.6,pop,pop,0.0014,D#,12.6,-5.84,major,8.51,Don't Give Up On Me (with R3HAB),2019,Andy Grammer,2pMntGuRgHAHVtrpC6kgGy,Don't Give Up On Me,9,121,11.7,0
+39.0,88.0,2.69,69.0,r&b,r&b,0.0,F#,5.0,-4.03,major,12.0,Con Altura,2019,"ROSALÍA,J Balvin,El Guincho",2qG5sZ7Si6sdK74qLxedYM,Con Altura,70,98,75.0,1
+10.8,80.0,2.83,66.8,rap,hip hop/rap,0.0057,E,6.94,-5.047,minor,27.0,TÅLMODIGHED,2019,Carmon,2qL8iTJoj3uzrkJxYjgA3z,GØR VED MIG (feat. Sivas),48,130,50.3,0
+74.0,31.0,5.38,22.0,soul/funk/motown,soul/funk/motown,0.0,C,11.0,-15.6,minor,4.0,A Donny Hathaway Collection,1990,Donny Hathaway,2qdyq2N1XfaA8QhtiOWWFG,I Love You More Than You'll Ever Know,39,87,20.0,1
+40.0,34.0,3.63,21.0,rock,rock,0.0,C,18.0,-16.73,major,3.0,Just Once In My Life,1965,The Righteous Brothers,2qhASBzpbFhPRtrnZ5lLnz,Unchained Melody,76,99,29.0,1
+74.0,65.2,2.82,55.7,r&b,r&b,0.0,C#,12.4,-5.714,minor,3.18,Narrated For You,2018,Alec Benjamin,2qxmye6gAegTMjLKEBoR3d,Let Me Down Slowly,86,150,48.3,0
+47.5,64.5,3.28,79.1,latin,global music,0.0,C,7.67,-3.547,major,35.1,Parte de Mí,2019,Kevin G.,2r387DZKnyoSQUpHWikyGR,Si Tú Sabes,24,190,71.3,0
+22.7,69.7,3.97,59.3,latin,global music,0.0,D,11.0,-6.356,minor,19.4,Nibiru,2019,Ozuna,2sGcLL6UBHSRCm3kiKH9zI,Temporal,66,148,48.4,0
+18.0,59.0,3.15,79.0,soul/funk/motown,soul/funk/motown,0.0,G#,10.0,-8.7,minor,7.0,Spinners,1973,The Spinners,2vLaES21zwbX1Rnmj56Bbb,I'll Be Around,62,112,63.0,1
+31.4,47.6,3.23,66.6,folk,folk,0.0,F#,34.2,-3.44,major,4.46,Speak Your Mind (from the Netflix Series We The People),2021,Brandi Carlile,2w2nGYcTq7iP1Aj6AI8KIi,Speak Your Mind (from the Netflix Series We The People),17,148,49.8,1
+23.2,57.8,2.99,78.6,pop,pop,0.0106,A,12.2,-4.665,major,13.0,Only Want You (Sam Feldt Remix),2019,Rita Ora,2wOVXsIRIoniqipE9I5ZVx,Only Want You - Sam Feldt Remix,64,106,34.7,0
+63.2,71.1,6.93,55.9,r&b,r&b,3.89,C,13.6,-7.671,minor,2.91,Maxwell's Urban Hang Suite,1996,Maxwell,2x28X8t6xaomkkn1ssHJ5E,...Til the Cops Come Knockin',48,130,58.3,0
+13.9,84.4,3.19,61.8,latin,global music,0.0309,F,14.8,-5.133,minor,6.85,Nibiru,2019,Ozuna,2x6WhnhzmKMbG1oO5fIW5G,Fuego,69,91,60.4,0
+1.3,90.3,2.89,68.6,rap,hip hop/rap,0.0,D,4.84,-5.065,major,11.4,A NIVEAU,2019,ATYPISK,2xeiAqqHWYXQMWk6s2aQdw,Kærlighed (feat. Gilli & Kesi),69,115,68.6,0
+2.0,88.0,4.61,73.0,house/dance,edm/house/dance,10.0,G#,11.0,-5.82,minor,3.0,The Wanderings Of The Avener,2015,"The Avener,Phoebe Killdeer",2y2TNx72H4oE01TkztsAR6,Fade Out Lines - The Avener Rework,53,119,70.0,1
+1.73,82.4,2.27,64.5,rap,hip hop/rap,0.0003,A,11.0,-6.324,major,36.7,STEPZOLOGI,2019,Stepz,2yd52fQjwKXLm6CiZzxO8q,Samurai (feat. Sivas),54,85,45.7,0
+80.0,44.0,3.47,31.0,pop,pop,13.0,G#,35.0,-10.96,major,6.0,my future,2020,Billie Eilish,2ygvZOXrIeVL4xZmAWJT2C,my future,67,105,9.0,1
+4.65,77.0,3.08,63.2,latin,global music,0.937,F,17.5,-4.77,minor,22.7,Nibiru,2019,Ozuna,2z1ACAitQVTvo1ynh7EtAd,Yo Tengo una Gata,67,184,81.9,0
+10.6,58.7,3.25,55.1,rap,hip hop/rap,0.0,D,5.45,-8.523,minor,23.6,Protokol,2019,Jamaika,2zykitlpirl2soC7LwtWP3,Protokol,56,71,17.2,0
+0.148,61.3,3.56,95.3,rock,rock,0.0582,D,15.2,-3.435,major,8.55,Get Born,2003,Jet,305WCRhhS10XUcH6AEwZk6,Are You Gonna Be My Girl,74,105,53.7,0
+1.98,87.5,3.35,73.2,rap,hip hop/rap,0.0,C#,11.0,-5.135,major,6.35,Welcome To The Zoo,2007,Gorilla Zoe,323Tzd2yjV4pifrVAajafb,Hood Nigga,57,87,15.9,0
+0.129,49.4,2.82,94.6,rock,rock,0.0,E,39.8,-2.757,major,6.37,A Place In The Sun,1999,Lit,33iv3wnGMrrDugd7GBso1z,My Own Worst Enemy,70,103,74.1,0
+22.7,68.9,3.05,68.6,rap,hip hop/rap,0.0,E,9.82,-5.049,minor,41.9,STEPZOLOGI,2019,Stepz,34FrYXSm9WiGCn7mT1lVuE,BeBe,52,120,66.9,0
+0.159,69.4,3.24,72.5,edm,edm/house/dance,25.7,G,8.64,-6.166,major,4.74,You Say,2018,Andy Kulter,35KNVXfDELwHrfv1GCgcRl,You Say - Edit,10,123,68.8,0
+42.9,71.4,3.98,68.6,latin,global music,0.0,C#,21.3,-6.395,major,36.0,Bon Voyage,2016,Liricistas,379GgTu7WeNT4Xoak52p3E,Día y Noche,47,94,54.0,0
+11.9,49.5,3.86,77.7,edm,edm/house/dance,0.0,G,42.5,-5.764,major,17.7,SWAAY,2015,DNCE,38510fWvtOkrFjg2EDkJtT,Toothbrush,3,104,81.2,0
+11.5,77.1,2.02,63.6,rap,hip hop/rap,0.0,G,21.7,-4.52,major,21.7,Dedikeret,2020,Jamaika,38PH0BX4W8T15k3ITRMmQM,Bandolero,55,100,74.1,0
+15.5,75.1,4.37,77.3,latin,global music,0.0,C#,11.5,-6.465,major,27.5,No Van Pal Baile,2017,Portavoz,39BciL2rDnFXWobvQsqe24,No Van Pal Baile,0,91,82.5,0
+3.64,59.5,2.89,77.3,latin,global music,0.108,A,33.4,-4.736,minor,5.49,X,2018,Nicky Jam,39N9RPD9MRb5WmoLzNzPeA,X,52,180,71.1,0
+25.6,77.7,8.35,69.8,latin,global music,0.0,C#,6.48,-7.339,major,37.0,Elefante,2017,Mente Sabia Crú,39OtTWWklZAf0120taXbVH,8.21,27,92,93.2,0
+6.0,39.0,2.28,65.0,r&b,r&b,0.0,F#,27.0,-4.32,minor,8.0,I Remember Me,2011,Jennifer Hudson,3A7yE3igxCotMUgzQzMXwK,Feeling Good,0,96,31.0,1
+0.164,87.5,3.0,93.1,edm,edm/house/dance,0.0585,A,7.57,-5.26,minor,9.2,So Fly,2019,Moksi,3Bo1APAEDcahmyiUPyPVuO,So Fly,1,128,68.1,0
+5.0,79.0,4.39,65.0,hip hop,hip hop/rap,0.0,G,10.0,-7.84,major,10.0,Views,2016,"Drake,Rihanna",3BtuIIrQlkujKPuWF2B85z,Too Good,72,118,40.0,1
+0.73,59.7,3.29,66.3,rap,hip hop/rap,0.0,A,7.91,-6.99,major,43.6,Back of My Mind,2021,"H.E.R.,Lil Baby",3CtfBYewF9YoIj4tN1Xuh6,Find A Way (feat. Lil Baby),37,158,57.7,1
+8.71,77.6,3.66,54.7,rap,hip hop/rap,0.0,F,35.3,-6.367,minor,4.16,Hvil I Fred (feat. Jamaika),2019,Xander,3Dt3KBJAOwhU3PrfVPFRt1,Hvil I Fred (feat. Jamaika),54,112,44.4,0
+14.0,77.0,2.94,68.0,r&b,r&b,2.0,A,8.0,-4.28,minor,5.0,RR,2023,ROSALÍA,3Eax1yebRxj6LSYpxE9Yd3,VAMPIROS,61,102,47.0,1
+0.0,49.0,3.87,87.0,rock,rock,0.0,C,37.0,-5.14,major,4.0,Wet Leg,2022,Wet Leg,3EwTIu5qka2l5ZekB0b6QC,Angelica,50,132,31.0,1
+48.0,57.0,4.33,75.0,hip hop,hip hop/rap,0.0,G,12.0,-4.66,major,17.0,TWIST & TURN (feat. Drake & PARTYNEXTDOOR),2020,"Popcaan,Drake,PARTYNEXTDOOR",3GjFRgUzylTZO5wqxFt9e0,TWIST & TURN (feat. Drake & PARTYNEXTDOOR),0,106,64.0,1
+10.2,62.0,3.7,90.6,pop,pop,2.06,B,18.3,-3.638,minor,6.27,Remember (with ZOHARA),2018,Gryffin,3Iee2uf8UXOrOupQzfs1z5,Remember (with ZOHARA),11,123,39.8,0
+23.6,65.7,5.16,57.8,latin,global music,0.746,D#,21.2,-6.682,minor,13.0,Aerolineas Makiza,1999,Makiza,3ItEUMz1CKL5CJxmnBAADO,La Rosa De Los Vientos,54,90,81.9,0
+0.781,78.9,4.16,79.5,latin,global music,0.151,D#,20.8,-8.699,minor,11.6,Los Grandes Éxitos En Español,1999,Cypress Hill,3JlHPSGJykKR0EAESs8Ope,No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Edit,43,102,84.9,0
+19.0,63.0,4.01,80.0,hip hop,hip hop/rap,0.0,D,64.0,-6.55,minor,5.0,1123,2019,"BJ The Chicago Kid,Anderson .Paak",3KapR70eIR6Zm3kJfG4oB3,Feel The Vibe,44,87,86.0,1
+0.0999,78.6,7.83,47.9,r&b,r&b,3.15,F,11.7,-10.501,minor,6.07,We Are to Be,2014,Chymamusique,3KhNltADertRRkqQ3IJ57D,We Are to Be,6,123,83.6,0
+10.1,88.8,2.92,57.7,rap,hip hop/rap,0.0,E,27.9,-7.865,minor,26.2,Milano Step (Lamin X Artigeardit),2020,Lamin,3LNDqfz94lY7uGifx8HQXt,Milano Step (Lamin X Artigeardit),50,130,47.7,0
+7.48,91.6,2.75,58.0,rap,hip hop/rap,0.0,F,12.3,-7.092,minor,26.0,Sjakalina,2019,Tessa,3LdRxPZLIouyXVFrJVLwg8,Sjakalina,63,102,56.8,0
+2.07,68.4,2.6,95.0,pop,pop,0.0001,C#,10.5,-2.588,minor,8.09,Mama (feat. Ellie Goulding) [Tiësto’s Big Room Remix],2019,Clean Bandit,3Mong1BzxMKwTZ0SbfLdcQ,Mama (feat. Ellie Goulding) - Tiësto’s Big Room Remix,65,126,43.6,0
+33.3,50.2,3.06,78.0,pop,pop,0.0,C,72.0,-4.547,major,24.4,I Miss Myself (R3HAB Remix),2019,NOTD,3N9YuL395rE4qNyHMsvOWC,I Miss Myself - R3HAB Remix,56,123,60.7,0
+30.0,44.0,4.01,61.0,rock,rock,0.0,G,8.0,-6.55,major,3.0,Last of the Independents,1994,Pretenders,3Nf8oGn1okobzjDcFCvT6n,I'll Stand by You,69,134,27.0,1
+27.0,48.0,3.33,63.0,rock,rock,0.0,F,9.0,-8.41,major,3.0,Jackson Browne (Saturate Before Using),1972,Jackson Browne,3QcuZo6WLcFkqqLmDs0d95,Doctor My Eyes,2,76,54.0,1
+3.0,67.0,4.2,74.0,afrobeats,afrobeats,0.0,E,13.0,-4.95,minor,8.0,Smile (feat. H.E.R.),2020,"Wizkid,H.E.R.",3Rp8FNCr3yxM3fGFy99LN8,Smile (feat. H.E.R.),36,90,72.0,1
+17.0,85.0,4.19,67.0,hip hop,hip hop/rap,0.0,C,13.0,-6.55,major,27.0,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),1990,A Tribe Called Quest,3Ti0GdlrotgwsAVBBugv0I,Can I Kick It?,68,97,74.0,1
+2.0,70.0,4.13,71.0,electronic,electronic,0.0,D,8.0,-4.97,major,3.0,Women In Music Pt. III,2020,HAIM,3UAAH2Jc1Fjr3HGaLyaZZE,The Steps,0,117,62.0,1
+24.7,57.3,6.34,67.9,r&b,r&b,0.0,D#,32.1,-6.774,minor,4.23,All That I Am,1997,Joe,3UGNdLrhhsK0SY9gNqe8TT,All The Things (Your Man Won't Do),59,66,64.8,0
+6.35,64.0,4.56,63.1,rock,rock,0.19,A,11.8,-11.092,minor,4.59,Creedence Covers The Classics,2009,Creedence Clearwater Revival,3UTItBKzuk2IOqxVu0C2F8,Susie Q - Single Version,0,128,93.4,0
+0.147,42.9,5.01,91.5,edm,edm/house/dance,7.68,F,15.2,-4.182,minor,16.7,Haunted House,2013,Knife Party,3UyZtf5BzjEYFJkIiIipoH,Internet Friends - VIP,42,128,14.7,0
+0.129,55.2,2.95,97.8,edm,edm/house/dance,10.2,F#,23.4,-4.398,minor,5.19,Fire In My Soul (Remixes) (feat. Shungudzo),2019,Oliver Heldens,3VHCuPFZ9JA1kopIlNLDdz,Fire In My Soul (feat. Shungudzo) - Tom Staar Remix,37,126,30.8,0
+25.0,64.0,2.88,60.0,pop,pop,0.0,C#,11.0,-6.13,minor,3.0,Stargazing,2024,Myles Smith,3Vr3zh0r7ALn8VLqCiRR10,Stargazing,89,124,33.0,1
+21.3,61.7,4.85,88.3,hip hop,hip hop/rap,0.0,A,26.5,-3.39,minor,28.9,The Black Album,2003,JAY-Z,3XEHn72yyeU5VmCrvqh37n,Allure,15,87,37.3,1
+3.65,43.5,4.65,32.9,rock,rock,0.116,E,10.9,-7.686,major,3.18,הביאו את הנגרים,2019,Hila Ruach,3Xys87IBYvgmRq8T8pkDIR,הביאו את הנגרים,13,123,4.37,0
+33.0,77.0,3.92,71.0,reggaeton,global music,0.0,C#,42.0,-4.89,minor,8.0,LOS MARCIANOS Vol.1: Dei V Version,2024,"Chris Jedi,Gaby Music,Dei V,Anuel AA,Ozuna",3Zm9ZCH5iQcpp1tdvU9rb7,BAD BOY,59,95,63.0,1
+11.0,82.0,4.54,53.0,electronic,electronic,2.0,A,26.0,-11.18,major,3.0,Tuesday Night Music Club,1993,Sheryl Crow,3ZpQiJ78LKINrW9SQTgbXd,All I Wanna Do,68,120,93.0,1
+45.0,58.0,3.73,25.0,jazz,jazz,0.0,C#,11.0,-12.61,major,4.0,Songs For Swingin' Lovers! (Remastered),1956,Frank Sinatra,3aEJMh1cXKEjgh52claxQp,I've Got You Under My Skin - Remastered 1998,66,127,59.0,1
+67.1,61.8,3.14,72.6,rock,rock,41.8,A#,12.0,-6.502,major,3.74,Psycho African Beat,2010,The Psychedelic Aliens,3aup2Wb74T0uWASlue8sqP,Gbomei Adesai,27,116,68.3,0
+91.6,77.7,4.04,72.1,rock,rock,6.58,C#,9.72,-9.671,major,7.83,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",2017,Ngozi Family,3btLTcvS1uOk5IVGTn7Gh4,Hi Babe,31,123,89.9,0
+2.0,54.0,4.43,77.0,indie,indie,21.0,F,7.0,-7.37,major,5.0,Seventeen,2019,Sharon Van Etten,3buy5Ooz6uNL48W1yBUzbM,Seventeen,0,127,24.0,1
+9.42,63.2,3.37,57.4,pop,pop,0.0,E,21.5,-8.584,major,5.3,Summer Air (feat. Trevor Guthrie),2019,Hardwell,3eW2EDwNRAiQKkgom96dUa,Summer Air (feat. Trevor Guthrie),40,126,55.7,0
+8.02,80.1,3.62,93.4,latin,global music,0.0,G,50.5,-4.418,minor,6.75,Objetos Perdidos,2019,Ñejo,3fIBfeXyOYgGUumsk1Kjno,No Lo Pienses - Remix,43,93,87.0,0
+38.3,84.1,3.95,57.3,latin,global music,0.0096,F#,10.5,-11.715,minor,30.2,La Bomba de Ziroshima,2016,Zof Ziro,3gBcBIHTSd3nab5w53U45C,Ojos de Diablo,41,93,64.4,0
+4.0,69.0,4.35,84.0,soul/funk/motown,soul/funk/motown,0.0,C#,2.0,-4.78,major,6.0,Time For Healing,1997,Sounds Of Blackness,3hl063NQxiuWyymhgaLf92,Hold On (Change Is Comin'),43,93,85.0,1
+12.0,70.0,3.57,58.0,r&b,r&b,0.0,F#,14.0,-6.94,minor,8.0,Try Me,2023,Jorja Smith,3htVhQPsTXWAkAXYRkfRSz,Try Me,42,105,63.0,1
+3.0,76.0,4.75,85.0,hip hop,hip hop/rap,0.0,G,37.0,-3.05,major,4.0,Greatest Hits,1998,"2Pac,Roger,Dr. Dre",3ia3dJETSOllPsv3LJkE35,California Love - Original Version,79,92,76.0,1
+23.5,65.6,4.28,57.8,r&b,r&b,0.0,G,11.8,-8.97,minor,9.22,Let Me Love You,2004,Mario,3ibKnFDaa3GhpPGlOUj7ff,Let Me Love You,77,95,55.6,0
+42.9,49.3,3.23,77.3,pop,pop,0.0007,F,8.07,-3.791,minor,15.7,Sixteen (Don Diablo Remix),2019,Ellie Goulding,3jwQwGVERUXo7eaAgL1xAo,Sixteen - Don Diablo Remix,66,123,30.1,0
+8.0,65.0,4.3,69.0,reggaeton,global music,0.0,D#,53.0,-5.75,minor,4.0,Un Verano Sin Ti,2022,"Bad Bunny,Bomba Estéreo",3k3NWokhRRkEPhCzPmV8TW,Ojitos Lindos,81,80,27.0,1
+4.0,63.0,4.21,64.0,soul/funk/motown,soul/funk/motown,16.0,G,10.0,-10.01,major,4.0,Texas Sun,2019,"Khruangbin,Leon Bridges",3k5oLgungD1dSOGLqQdIQw,Texas Sun,0,112,62.0,1
+15.3,74.3,2.86,67.2,rap,hip hop/rap,0.0,D,19.4,-5.881,minor,27.7,Balenci,2019,Larry 44,3oP9C6MAm8i4SvYB37GDto,Balenci,57,140,27.5,0
+13.8,52.1,3.28,82.6,r&b,r&b,0.0,D,19.6,-2.888,major,3.72,This Morning,2018,Picture This,3phOtFs7faVgUInMMaJ3RD,This Morning,60,158,37.2,0
+2.0,91.0,2.64,63.0,hip hop,hip hop/rap,0.0,G#,10.0,-4.4,major,6.0,PARABOLIC!,2020,nobigdyl.,3pm0lUOKsphN8A3VLZivuS,PARABOLIC!,49,88,75.0,1
+1.0,87.0,2.02,68.0,hip hop,hip hop/rap,0.0,F,16.0,-4.92,minor,9.0,My Best,2024,Saweetie,3qAMlVUvNZVpxA85pFPxOT,My Best,52,140,50.0,1
+9.61,79.2,4.94,78.2,latin,global music,0.0,A,14.2,-5.201,major,5.38,En Cero (Remix),2019,Yandel,3rZxzqH3vl8yY0BTL4lzxL,En Cero - Remix,68,93,62.8,0
+7.97,66.1,3.73,75.8,pop,pop,0.0,G,10.6,-5.299,major,8.64,Let It Be Me,2019,Steve Aoki,3sHuIjfAzluc6S9cXoqfqC,Let It Be Me,23,114,38.7,0
+2.0,73.0,2.51,75.0,afrobeats,afrobeats,0.0,A#,15.0,-4.58,major,4.0,HEIS,2024,Rema,3sKBph3ElueH1dVLmkHWZZ,YAYO,66,118,51.0,1
+31.0,70.9,3.26,61.5,latin,global music,0.0,B,10.5,-5.041,major,21.2,UNO,2019,Nacho,3tCMkWXH8WdzyVQWDrBz52,Delirio,48,184,62.9,0
+10.0,52.0,5.67,47.0,folk,folk,0.0,E,10.0,-8.74,major,3.0,West,2007,Lucinda Williams,3tJvIep0xivOdA6xCjGVQS,Unsuffer Me,30,118,35.0,1
+35.6,76.5,4.01,55.0,r&b,r&b,0.0095,C,10.2,-7.942,major,8.0,I Found My Smile Again,2008,D'Angelo,3uq6qe8ouF012GLOcLyWcH,I Found My Smile Again (Radio Edit),49,95,68.8,0
+75.6,54.9,3.77,41.3,r&b,r&b,0.0,E,9.39,-5.587,major,3.62,Oh My Messy Mind,2019,James Bay,3xRcQ04b0l5RiU2w7lJhCD,Bad,73,140,29.0,0
+10.0,60.0,5.39,89.0,electronic,electronic,27.0,C#,17.0,-8.64,major,5.0,You've Come A Long Way Baby,1998,Fatboy Slim,3yGy1JYz3zQKlxSgjgpQqX,Praise You,53,110,53.0,1
+19.0,49.0,3.06,58.0,rock,rock,0.0,G,41.0,-10.96,major,4.0,Blowin' Your Mind!,1967,Van Morrison,3yrSvpt2l1xhsV9Em88Pul,Brown Eyed Girl,83,151,91.0,1
+68.0,77.0,2.73,37.0,soul/funk/motown,soul/funk/motown,0.0,D,8.0,-11.23,major,3.0,The Dock of the Bay (Mono),1968,Otis Redding,3zBhihYUHBmGd2bcQIobrF,(Sittin' On) the Dock of the Bay,78,104,53.0,1
+64.0,50.0,10.72,29.0,jazz,jazz,0.0,G#,16.0,-15.43,major,5.0,Blue Train,1957,John Coltrane,3zIuHdD8dkh1vPxQu334T7,Blue Train,50,136,57.0,1
+16.0,73.0,3.48,74.0,hip hop,hip hop/rap,0.0,B,12.0,-4.61,minor,32.0,Who Told You (feat. Drake),2023,"J Hus,Drake",40EXFgNMOIQRQOwJZ8mJkC,Who Told You (feat. Drake),63,77,87.0,1
+22.7,69.5,2.92,71.9,latin,global music,0.0171,D,8.84,-5.938,major,9.03,Nibiru,2019,Ozuna,40rXWke6SnXiGkSmaT8ZUr,Fantasía,85,180,78.1,0
+90.5,53.1,3.75,34.7,r&b,r&b,0.0,C,9.35,-7.044,major,3.45,Wide Awake,2012,Michael Schulte,41WTP0gosjYD74B06uS2tL,You Said You'd Grow Old With Me,71,114,28.9,0
+2.44,45.6,3.15,82.8,r&b,r&b,0.0,C#,21.0,-6.225,major,7.7,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),2019,Panic! At The Disco,421eObjg0DTm2qajJl5OJm,Into the Unknown - Panic! At The Disco Version,82,117,31.3,0
+31.0,61.0,3.1,83.0,rock,rock,0.0,C,20.0,-8.15,major,5.0,Down In The Groove,1988,Bob Dylan,42KZovoCaiMhxskWGA68gt,Silvio,29,162,85.0,1
+21.4,81.7,3.15,68.3,edm,edm/house/dance,0.0009,A#,7.98,-6.59,major,13.9,Swing Patrol,2012,Tape Five,42l9bIPPT5555p3KeY83y2,Geraldines Routine,49,119,81.5,0
+78.0,39.0,3.58,75.0,soul/funk/motown,soul/funk/motown,0.0,D#,14.0,-7.0,major,4.0,River Deep-Mountain High,1966,Ike & Tina Turner,44BmNSqH9uZV5OfIjGcER3,River Deep - Mountain High,50,83,27.0,1
+28.7,73.2,2.57,41.3,r&b,r&b,0.0,A,5.65,-6.353,major,7.02,Y U Gotta B Like That,2019,Audrey Mika,45StvejYUdIsyUwqdZ7iJM,Y U Gotta B Like That,69,92,76.1,0
+20.0,63.0,3.91,44.0,r&b,r&b,0.0,C#,10.0,-4.69,major,10.0,Back of My Mind,2021,H.E.R.,45wbaSjwlHfUyLf36DHPtF,Process,39,127,36.0,1
+9.1,68.7,2.13,70.6,pop,pop,0.0,E,12.4,-5.357,major,4.59,Don’t Give Up On Me Now (with Julie Bergan),2019,R3HAB,46W9iEjOg5nkMvb6lo4Jwz,Don’t Give Up On Me Now (with Julie Bergan),63,115,27.0,0
+1.0,68.0,3.39,73.0,rock,rock,0.0,D,6.0,-7.32,major,5.0,Gaslighter,2020,The Chicks,4BR0bp4qHX1lcBM2HtnoIm,Gaslighter,44,131,69.0,1
+9.0,77.0,2.9,36.0,r&b,r&b,0.0,C,12.0,-6.48,major,4.0,Three Dimensions Deep,2022,Amber Mark,4Csvnz7PR04ttCcDAhUz6o,Bliss,42,73,52.0,1
+14.7,59.3,3.03,60.7,soul/funk/motown,soul/funk/motown,0.0,C#,12.8,-9.89,major,2.83,Make It Happen,1967,Smokey Robinson & The Miracles,4Dq749x2QP6OXTURJ9GGY8,The Tears Of A Clown,54,128,95.3,1
+5.89,61.8,2.57,91.9,edm,edm/house/dance,0.0133,F,11.4,-4.389,minor,30.7,Blackout,2019,Blasterjaxx,4EouOqmuTn64vk1CGhKL4G,Blackout,46,130,10.8,0
+18.0,56.9,4.27,57.2,latin,global music,0.0002,C,30.6,-5.714,minor,33.3,+ High (feat. Jaycob Duque),2019,Nibal,4F1qeI9MpssRd1OXqH34kR,+ High (feat. Jaycob Duque),48,192,56.4,0
+56.0,86.0,2.59,55.0,afrobeats,afrobeats,0.0,C#,19.0,-7.92,minor,15.0,Finesse,2022,"Pheelz,Bnxn",4Gasn91fsCefnN8zM5GjA8,Finesse,63,102,78.0,1
+0.237,50.9,4.77,89.0,rock,rock,0.0788,A,49.9,-4.594,minor,8.05,Absolute Rock Anthems,2008,Billy Idol,4GnMGHL8UgSLKnMHCkRWxu,Rebel Yell,0,166,43.4,0
+21.9,79.2,2.82,72.4,pop,pop,0.0,B,9.11,-5.108,minor,3.62,Only When It Rains,2019,Frank Walker,4IAd7Vdwcc1E86P15tXjca,Only When It Rains,52,110,42.9,0
+89.0,51.0,5.31,73.0,jazz,jazz,34.0,F,15.0,-11.72,minor,4.0,Wisdom Through Music,1973,Pharoah Sanders,4IIxBK0L8uj7viwxhmuSc4,Love Is Everywhere,42,128,75.0,1
+20.9,60.0,4.23,70.6,rap,hip hop/rap,0.0,A#,12.5,-7.899,minor,36.1,Operation Stackola,1995,Luniz,4IYKjN1DrYzxKXt0umJqsG,I Got 5 On It,73,174,58.0,0
+28.6,72.0,3.46,67.3,rap,hip hop/rap,0.0,E,11.7,-5.886,minor,21.5,STANDARD,2019,I$WAAL,4Jh3p0TydgTJZ444pPhVvd,STANDARD,57,140,22.2,0
+0.0086,51.1,4.22,91.7,rock,rock,50.0,A,4.18,-8.052,minor,3.78,Dio / Rock Legends,2007,Dio,4Ld00UQYL3aPcK4yOnv0JP,Rainbow In The Dark,2,118,65.2,0
+57.0,40.0,6.07,50.0,electronic,electronic,1.0,E,98.0,-11.48,minor,4.0,The Essential Leonard Cohen,2002,Leonard Cohen,4LhomLO7QYlHsX2mgdQR9X,Dance Me to the End of Love - Live,35,133,42.0,1
+22.9,44.8,2.84,83.6,pop,pop,0.0,B,42.7,-6.495,major,8.09,Tequila (Robin Schulz Remix),2019,Dan + Shay,4Nu8sEejt46770gDUvFcrF,Tequila - Robin Schulz Remix,54,123,48.2,0
+14.0,72.0,5.06,82.0,soul/funk/motown,soul/funk/motown,0.0,B,12.0,-11.3,major,5.0,The Definitive Collection (Deluxe Edition),2002,Stevie Wonder,4P91jW5QmEkhoLgdMujp82,Do I Do,57,113,92.0,1
+4.27,72.8,3.22,84.8,pop,pop,0.0004,F,11.8,-6.248,major,18.5,Don't Worry Bout Me (Rudimental Remix),2019,Zara Larsson,4R7ZSlYoJOIaxHJFHszQCR,Don't Worry Bout Me - Rudimental Remix,65,125,61.2,0
+6.11,42.1,3.97,70.5,edm,edm/house/dance,0.0008,D#,19.9,-4.423,major,3.81,Hold On,2016,Henrik B,4Rd3IGR94ZgUENKYyXhdcz,Hold on,0,128,49.6,0
+12.6,62.0,3.43,65.8,rap,hip hop/rap,0.0,F,16.2,-5.433,minor,4.08,888,2019,KESI,4TWa40ZGCUDhtxykpoWCcq,Hele Vejen (feat. Gilli),54,172,56.0,0
+24.7,61.4,4.1,68.4,r&b,r&b,0.0,C,9.76,-5.79,major,15.7,Without Fear,2019,Dermot Kennedy,4Ta3PhWmY50ZLU1uhKFKPE,Outnumbered,72,157,25.8,0
+6.35,64.7,3.21,79.5,pop,pop,0.0,C#,18.8,-3.548,minor,3.72,Better When You're Gone,2019,David Guetta,4Tvw0lweq9l2JPQKFbpbBQ,Better When You're Gone,76,128,40.9,0
+46.6,77.8,6.79,83.0,rock,rock,35.7,A#,11.1,-7.093,minor,7.2,Presents the Chissa Years 1965-1975,2006,Hugh Masekela,4Ua2SU25r2XCnT8CpmYAyM,Afro Beat Blues (Feat. Ojah),2,96,88.8,0
+81.6,58.6,3.26,44.7,r&b,r&b,0.0,D#,27.7,-4.699,major,2.87,What a Time To Be Alive (Deluxe Edition),2019,Tom Walker,4VPlKUSjC9HdZdUbFZ0Y5y,Better Half of Me,69,108,44.1,0
+1.0,38.0,3.33,87.0,folk,folk,2.0,G,15.0,-5.5,major,24.0,Reunions,2020,Jason Isbell and the 400 Unit,4YtvmIkKHaSBOv1VPmZf6p,Be Afraid,32,151,31.0,1
+7.17,63.0,3.27,72.6,pop,pop,0.0,C,10.8,-3.753,major,9.78,Woke Up Late (Sam Feldt Remix),2019,Drax Project,4ciBIS83LHQpKf4noVKP51,Woke Up Late (feat. Hailee Steinfeld) - Sam Feldt Remix,41,122,49.9,0
+12.7,78.3,2.74,73.8,latin,global music,0.0,B,12.7,-4.078,major,7.41,VIDA,2019,Luis Fonsi,4cuGZb0iFyHtwaSKdKrJkF,Imposible,68,91,92.5,0
+5.4,67.4,3.01,85.4,pop,pop,0.0,F,37.9,-5.253,major,11.5,Sing It With Me (Embody Remix),2019,JP Cooper,4d3cCNTG3PUgWhPButc4N7,Sing It With Me - Embody Remix,50,112,50.3,0
+28.9,89.8,3.61,27.6,hip hop,hip hop/rap,0.02,B,10.7,-12.38,minor,34.0,4 Your Eyez Only,2016,J. Cole,4eSn3WcTUYdM5dYnSf7v8K,Neighbors,32,139,44.4,1
+54.0,73.0,5.74,50.0,soul/funk/motown,soul/funk/motown,32.0,C,13.0,-8.91,minor,8.0,Voodoo,2000,D'Angelo,4euxFlxLWVGmZZLyYARTyE,Spanish Joint,48,112,78.0,1
+13.0,27.0,4.21,76.0,pop,pop,0.0,G,7.0,-3.74,major,5.0,That's Where I Am,2022,Maggie Rogers,4f1KkbXHnfIVZ9vmIExByJ,That's Where I Am,0,181,15.0,1
+26.3,87.7,2.89,50.3,latin,global music,0.231,D#,17.8,-8.732,minor,32.8,Rap y Hierbas,2017,Granuja,4fWklIPH97s1BvwSgGqVvr,Punto Rojo,42,90,57.9,0
+10.6,78.9,5.19,75.3,r&b,r&b,0.0041,E,29.8,-7.395,minor,3.24,Tamia,1998,Tamia,4fsyPCAb55yWiyJVbDJLr5,Falling for You,39,111,81.0,0
+0.266,39.7,3.81,72.5,edm,edm/house/dance,0.0,G,20.8,-4.862,major,4.3,PRISM (Deluxe),2013,Katy Perry,4fwbGKNExPtPHbor1TBSY4,Unconditionally,72,129,35.8,0
+96.5,71.0,4.59,5.65,r&b,r&b,0.0,G,8.89,-15.099,major,5.34,Lost Boy,2015,Ruth B.,4h0zU3O9R5xzuTmNO7dNDU,Lost Boy,76,124,34.8,0
+50.0,61.6,3.77,91.0,rock,rock,50.4,B,28.1,-4.25,major,3.47,Exile On Main Street (2010 Re-Mastered),1972,The Rolling Stones,4hq0S6wznq7SHDyMOFXL9i,Tumbling Dice,59,111,77.0,1
+11.7,65.0,3.1,81.9,pop,pop,0.0,E,7.72,-3.811,major,5.51,I'm Not Sorry,2019,Hardwell,4huh5oqBz9RkgpzAkyuEAs,I'm Not Sorry,34,128,35.1,0
+96.0,56.0,1.28,5.0,fado,global music,0.0,C,9.0,-12.87,major,4.0,Poor Things (Original Motion Picture Soundtrack),2023,Carminho,4iGW3Cjru1RVBzFEFfBlYI,O Quarto - Soundtrack Version,33,85,41.0,1
+1.46,58.5,3.1,62.5,r&b,r&b,0.0002,F,13.1,-5.94,major,10.9,What a Time To Be Alive,2019,Tom Walker,4iVVU8DyQvOVsKafv3KWIF,Leave a Light On,66,69,28.0,0
+14.0,56.0,3.36,55.0,r&b,r&b,0.0,F,11.0,-7.23,major,13.0,SOS,2022,SZA,4iZ4pt7kvcaH6Yo8UoZ4s2,Snooze,85,143,39.0,1
+12.8,57.4,5.0,62.9,rock,rock,0.0,D,27.1,-8.815,minor,3.63,Ladies And Gentlemen... The Best Of George Michael,1998,George Michael,4jDmJ51x1o9NZB5Nxxc7gY,Careless Whisper,75,153,78.6,0
+10.8,70.7,2.51,58.9,rap,hip hop/rap,0.0,F,10.2,-8.347,minor,28.8,Prestige,2020,Danni,4jyT77UqVTx5vbP6VYV46v,Prestige,51,148,64.1,0
+3.46,87.1,3.4,62.3,latin,global music,2.92,G#,8.1,-9.404,minor,18.8,Los Grandes Éxitos En Español,1999,Cypress Hill,4kEsRngsTsKjaFlFSnVkyq,Loco En El Coco (Insane In the Brain) - Spanish Edit,44,102,86.2,0
+85.2,36.9,7.71,23.1,pakistani indie,global music,9.6,A,10.8,-16.22,major,3.15,Vulture Prince,2021,Arooj Aftab,4lcQHckNMeUkM8jx67j28G,Mohabbat,43,165,5.16,1
+20.4,61.8,5.79,79.3,r&b,r&b,1.54,C,12.6,-5.711,major,6.01,"I like it when you sleep, for you are so beautiful yet so unaware of it",2016,The 1975,4m0q0xQ2BNl9SCAGKyfiGZ,Somebody Else,73,101,45.9,0
+0.505,53.2,2.94,65.9,edm,edm/house/dance,28.7,C#,30.7,-4.198,minor,43.7,Catch (Radio Edit),2014,Will Sparks,4oJlQHvcgGMcnPdEsDVqNq,Catch - Radio Edit,34,127,58.6,0
+12.5,61.7,4.75,82.7,rock,rock,19.8,A#,8.5,-8.936,minor,3.48,Kel Tamasheq (Deluxe Edition),2012,Liya Ag Ablil,4oYwvjJ2Yq3Yn4Fqgn3uOg,Awa adounia,35,101,84.6,0
+70.0,50.0,3.03,25.0,soul/funk/motown,soul/funk/motown,0.0,A,10.0,-12.81,major,3.0,Otis Blue: Otis Redding Sings Soul (Collector's Edition),1965,Otis Redding,4pdLyulbYLCrPmDzWWeJIZ,I've Been Loving You Too Long,61,148,15.0,1
+18.2,58.6,4.03,61.6,pop,pop,0.0,F,9.27,-7.96,major,3.24,An Evening With Silk Sonic,2021,"Bruno Mars,Anderson .Paak,Silk Sonic",4pryE6cN2gFL1FVF5fYINl,Leave The Door Open,69,148,71.9,1
+17.7,64.3,2.87,82.8,latin,global music,0.0,F#,13.7,-6.875,major,23.2,Tu Antihéroe Favorito,2013,Tino El Pingüino,4qdXwB87WRfDaMcfVpD44G,Cuestión de Ti,36,170,91.4,0
+0.976,49.0,5.63,72.4,rock,rock,0.46,D,15.9,-9.581,major,3.66,The Joshua Tree (Super Deluxe),1987,U2,4qgZs0RNjdzKAS22lP0QjY,Where The Streets Have No Name - Remastered,65,126,29.2,0
+0.766,29.9,2.71,83.4,edm,edm/house/dance,0.0141,F#,14.0,-7.721,minor,6.6,"Play (Remixes, Vol. 1)",2019,K-391,4rPNlXjFSkaZF1tnjdV04C,"Play - B2A, Anklebreaker & Tungevaag Remix",48,149,29.1,0
+24.1,79.0,3.54,74.6,pop,pop,0.0,A,31.6,-5.96,major,5.02,Bruises EP,2019,Lewis Capaldi,4raMIjIjMc8JohHth7l9lG,Bruises - Steve Void Remix,70,125,53.8,0
+21.3,88.6,3.2,63.7,latin,global music,0.747,G,6.67,-7.654,major,7.66,Yoyo,2019,Marina Yers,4saCqH8Jj0H3KzM29TRb7m,Yoyo,53,102,61.7,0
+80.0,40.0,2.58,28.0,soul/funk/motown,soul/funk/motown,0.0,A#,14.0,-14.01,major,3.0,Pain in My Heart,1964,Otis Redding,4skknrc3sJqaPTtUr2cwFq,These Arms of Mine,67,177,69.0,1
+99.0,36.0,3.53,3.0,jazz,jazz,6.0,C#,12.0,-20.48,major,4.0,Billie Holiday,1957,Billie Holiday,4smkJW6uzoHxGReZqqwHS5,I'll Be Seeing You,67,90,19.0,1
+74.4,44.1,5.05,61.1,rock,rock,29.5,A#,16.8,-5.61,major,3.14,Fondo,2009,Vieux Farka Touré,4ttKTDA9f5i2dAPSOqTRtB,Fafa,0,93,35.0,0
+1.29,41.4,3.85,48.6,edm,edm/house/dance,0.0,F#,11.1,-6.431,minor,3.11,High On Life (feat. Bonn),2018,Martin Garrix,4ut5G4rgB1ClpMTMfjoIuy,High On Life (feat. Bonn),77,128,36.8,0
+10.5,54.2,3.21,86.4,edm,edm/house/dance,0.0,D#,9.93,-4.888,major,12.4,Dreamers (Remixes),2018,TooManyLeftHands,4yfIBuEnkdmZNUpMICBlsv,Dreamers - Uta & Jay Forest Remix,38,128,15.8,0
+7.54,61.7,2.75,53.7,rap,hip hop/rap,0.0,A#,10.6,-5.02,minor,37.8,Udsigt,2019,ZK,50ly1zllYjItP5APekmnuA,Udsigt,55,132,92.9,0
+83.0,43.0,2.44,15.0,jazz,jazz,0.0,F,11.0,-15.87,major,3.0,The Second Time Around,1961,Etta James,52JFZ4D1kYCspWMolxYtTo,Don't Cry Baby,50,132,59.0,1
+1.07,73.3,2.93,71.8,pop,pop,1.02,E,33.0,-7.149,minor,3.76,Insomnia (King Arthur Remix),2019,Daya,52Y5nYBQgqawttJxxtUv1e,Insomnia - King Arthur Remix,63,123,20.6,0
+10.5,57.3,2.88,60.4,rap,hip hop/rap,0.0,G,57.2,-6.583,minor,8.3,Holdet (feat. NODE),2019,Jamaika,53Z8vzEI2bbqpsSZ8dFSOt,Holdet (feat. NODE),58,98,42.4,0
+14.0,62.0,5.69,42.0,r&b,r&b,0.0,F#,37.0,-7.57,major,4.0,Comin' From Where I'm From,2003,Anthony Hamilton,53w2vsCVLYmgh15RhIwWsw,Float,30,113,39.0,1
+36.1,62.2,4.61,83.6,latin,global music,0.0035,A,15.6,-4.113,major,13.7,Así (Remix),2019,Tayl G,55oduV8SihZzpk6nOzBRJu,Así,55,198,42.6,0
+0.632,53.1,3.33,75.0,edm,edm/house/dance,0.0076,A#,11.7,-5.831,minor,11.1,Heartless,2019,The Weeknd,57vxBYXtHMk6H1aD29V7PU,Heartless,93,170,19.8,0
+0.923,45.2,3.41,75.1,rock,rock,0.0205,B,9.2,-9.438,minor,5.65,Danzig,1988,Danzig,59Xo3BICqRNDdvNquirBot,Mother,1,73,39.5,0
+10.0,85.0,2.59,70.0,hip hop,hip hop/rap,0.0,C#,7.0,-5.52,minor,4.0,MILLION DOLLAR BABY,2024,Tommy Richman,5AJ9hqTS2wcFQCELCFRO7A,MILLION DOLLAR BABY,90,138,92.0,1
+6.75,78.2,2.69,45.9,rap,hip hop/rap,0.0,D,12.2,-7.526,minor,20.7,Brandvarm,2019,Josef Og Elias,5B6QJikgE2fsGpR1BBkapc,Brandvarm,63,85,22.0,0
+78.1,56.5,3.84,24.5,r&b,r&b,0.0,F,9.98,-9.132,major,2.62,Made In The A.M. (Deluxe Edition),2015,One Direction,5CRVwXGikmqzoRO6q7FeAg,If I Could Fly,69,75,30.7,0
+0.208,95.2,2.0,61.4,rap,hip hop/rap,0.0594,B,8.56,-6.118,minor,17.1,G.F.P.,2019,Marco Rahim,5CxWsqMLQdUhjsJ4Y6Ml8E,G.F.P.,47,122,52.9,0
+31.1,44.1,4.2,40.4,r&b,r&b,0.0,F#,21.2,-11.524,minor,3.03,All That I Am,1997,Joe,5F7HjYOGv2COHhhPMkS5NE,All That I Am,39,84,11.9,0
+83.7,67.4,3.97,41.3,r&b,r&b,0.0019,D,9.8,-7.816,major,2.74,Heavier Things,2003,John Mayer,5FPnjikbwlDMULCCCa6ZCJ,Daughters,68,125,50.3,0
+27.0,74.0,3.77,58.0,hip hop,hip hop/rap,0.0,A,13.0,-6.65,minor,18.0,MAGIC,2022,"Vince Staples,Mustard",5FvXe5bz4nQQ4eBaitt4EC,MAGIC,48,90,29.0,1
+30.2,63.2,2.98,42.6,r&b,r&b,0.0,E,9.25,-11.38,minor,4.9,So Hard,2021,Nezi,5I0qCoNe6cOfXajLAzazUN,So Hard,2,130,23.8,1
+6.23,60.1,3.47,53.1,latin,global music,0.0,F,9.04,-6.493,major,29.6,Contigo Despertar,2020,Jabex,5JjRW0BF47MQF9Z4szcQ03,Contigo Despertar,38,90,60.0,0
+3.95,60.0,2.92,94.7,edm,edm/house/dance,0.0,F#,10.0,-1.84,minor,16.3,There For You: The Remixes,2017,Martin Garrix,5K3NDUPkLe46b5DRMt2RNJ,There For You - Madison Mars Remix,47,126,34.7,0
+1.63,53.9,3.52,93.0,rock,rock,1.41,B,3.88,-5.106,major,4.08,The World Won't Listen,1987,The Smiths,5KMPp9asnxJwvaBuSZ5Nsn,"You Just Haven't Earned It Yet, Baby",44,144,69.9,0
+15.3,81.9,3.8,29.9,r&b,r&b,0.0,F,30.0,-11.964,minor,12.2,My Way,1997,Usher,5L0KDoZklMgs9GPoonneEl,Nice & Slow,63,122,51.5,0
+0.315,35.9,3.61,71.8,pop,pop,0.0075,E,17.4,-2.182,major,4.29,Take Off Your Colours,2008,You Me At Six,5LJIg1xBUJ4A4pMm25YkVj,Sweet Feet,0,140,38.9,0
+26.0,72.0,3.23,72.0,pop,pop,6.0,B,11.0,-4.65,major,4.0,Harry's House,2022,Harry Styles,5LYMamLv12UPbemOaTPyeV,Music For a Sushi Restaurant,69,107,36.0,1
+12.2,60.6,4.23,58.0,r&b,r&b,0.0,E,9.83,-7.007,minor,3.55,Unwritten,2004,Natasha Bedingfield,5LZNRUci6ZphLNjhnVQgWb,I Bruise Easily,42,131,38.8,0
+14.0,82.0,3.61,63.0,r&b,r&b,0.0,G,15.0,-5.83,minor,13.0,Persuasive,2022,Doechii,5MA0iU2dyAFwWUzfyrk2di,Persuasive,50,120,50.0,1
+16.0,48.0,4.06,48.0,soul/funk/motown,soul/funk/motown,0.0,E,68.0,-11.92,minor,3.0,All Day Music,1972,War,5MtDBcXHPa4vNAsZKfvoCZ,All Day Music,0,107,53.0,1
+88.0,36.0,4.67,14.0,jazz,jazz,0.0,A#,10.0,-18.6,major,4.0,In A Sentimental Mood,1989,Dr. John,5NCbLiZLwjQV5SqkGqtHtA,More Than You Know,14,178,23.0,1
+7.3,66.2,3.2,82.3,pop,pop,0.0,A,8.33,-4.7,major,9.71,Better Day (feat. Aloe Blacc),2019,Young Bombs,5NeFmsnXBy6xVbz8pesM5l,Better Day (feat. Aloe Blacc),62,119,43.5,0
+36.0,92.0,3.95,72.0,reggae,global music,0.0,C,10.0,-8.55,major,10.0,Uprising,1980,Bob Marley & The Wailers,5O4erNlJ74PIF6kGol1ZrC,Could You Be Loved,80,103,76.0,1
+16.9,76.2,3.23,66.5,pop,pop,0.0,B,10.3,-6.92,minor,4.71,Leave,2019,Borgeous,5Qnk8vP5g9l5SDQKU3qyYQ,Leave,56,116,96.1,0
+5.96,78.1,3.92,83.1,reggae,global music,0.0,A#,18.7,-6.06,minor,11.1,In Search Of Lost Time,2020,"Protoje,Original Koffee",5RPuPEZ0HiXPTnzwqfJMa8,Switch It Up (feat. Koffee),46,140,66.1,1
+0.309,73.6,4.07,57.8,edm,edm/house/dance,28.2,D#,6.85,-10.417,minor,4.42,Deep Down,2019,Jonny Joel,5T4M2lKzdHml7MUwQYrvkb,How Is That,27,123,42.8,0
+9.23,66.5,3.57,73.5,rap,hip hop/rap,0.0,F,12.9,-6.312,major,11.1,Samme Vej,2019,NODE,5TxcaqtknKAAdshjQCXfBG,Ra Ta Ta Ta (feat. Stepz),55,168,41.5,0
+86.6,53.1,3.83,26.9,r&b,r&b,0.0,C#,11.6,-10.6,major,4.06,No Right To Love You (Acoustic),2018,Rhys Lewis,5UqivtkoiPTXrJu6GIt1mh,No Right To Love You - Acoustic,71,84,52.0,0
+10.0,85.0,2.78,70.0,afrobeats,afrobeats,0.0,E,10.0,-8.74,minor,4.0,Sability,2023,Ayra Starr,5V9XFfvCG4WP5ZdISOLvaF,Sability,59,120,85.0,1
+14.0,63.0,4.27,85.0,electronic,electronic,0.0,A,32.0,-10.61,minor,3.0,The Dream Of The Blue Turtles,1985,Sting,5Xhqe9xu6bKRSqLj1mS1SB,If You Love Somebody Set Them Free,55,125,82.0,1
+9.04,84.6,3.28,59.5,soul/funk/motown,soul/funk/motown,0.0,C,6.3,-8.37,major,4.39,The Very Best Of The Staple Singers,2007,The Staple Singers,5YLnfy7R2kueN0BRPkjiEG,I'll Take You There,63,102,78.0,1
+5.36,68.7,3.14,70.7,pop,pop,0.0093,E,16.0,-6.19,major,3.28,These Are The Times (feat. JRM),2019,Martin Garrix,5YN0zHycJ0Yxz31A5QsVov,These Are The Times (feat. JRM),71,127,60.7,0
+39.0,58.5,3.64,61.1,rap,hip hop/rap,0.0,F#,64.9,-4.13,major,28.8,Ella No Es Tuya (Remix),2021,"Rochy RD,Myke Towers,Nicki Nicole",5YYW3yRktprLRr47WK219Y,Ella No Es Tuya - Remix,65,97,96.2,1
+13.6,82.9,4.62,43.3,latin,global music,0.0003,C#,30.6,-7.622,major,39.1,Desde,2016,Portavoz,5ZmsMLLzdWDsEM5PPjvtw9,Desde,0,91,92.8,0
+59.0,76.0,3.36,57.0,afrobeats,afrobeats,4.0,B,9.0,-3.37,minor,5.0,Rema,2019,Rema,5bGMedm8ohIGxe8pLRv7E3,Iron Man,29,100,51.0,1
+32.8,72.2,3.08,73.8,latin,global music,0.0015,A,19.8,-6.073,minor,24.7,F.A.M.E.,2018,Maluma,5cepAtqnEQ6yVG6088zMMu,Corazón (feat. Nego do Borel),74,198,74.8,0
+1.02,55.1,2.3,82.1,rock,rock,4.38,D,15.3,-4.489,major,5.39,Vampire Weekend,2008,Vampire Weekend,5dKBaysNJtfpyNTRa5lqDb,A-Punk,69,175,84.2,0
+17.3,77.8,3.25,57.2,rap,hip hop/rap,0.0,F,16.9,-6.869,minor,18.3,Psycho (feat. Artigeardit),2019,Omar,5dKHAZhVD7aHRqD0l0YNXi,Psycho (feat. Artigeardit),53,160,71.5,0
+0.205,67.2,4.43,96.3,rock,rock,0.0,A,29.1,-4.168,major,5.07,The Best Of David Bowie 1969-74,1997,David Bowie,5fCwwY9VFcpQr1JOKsHmPX,Rebel Rebel - 1997 Remaster,36,127,62.1,0
+37.0,56.0,3.08,90.0,rock,rock,0.0,E,54.0,-3.47,major,3.0,Exile On Main Street (Deluxe Version),1972,The Rolling Stones,5fXRPS1tp70DbqsBZVyG4e,Happy,51,132,97.0,1
+84.8,52.5,5.02,55.5,folk,folk,0.02,C,7.95,-8.74,major,4.41,Hejira,1976,Joni Mitchell,5fdjxHzBILxMXRrbbOVupJ,Coyote,45,167,57.4,1
+15.0,76.0,3.39,86.0,pop,pop,50.0,C#,16.0,-5.12,major,11.0,BRAT,2024,Charli xcx,5h68SoVFGleijCtjEja3xG,365,80,127,73.0,1
+79.0,63.0,5.46,46.0,soul/funk/motown,soul/funk/motown,13.0,C#,13.0,-13.67,major,3.0,What's Going On,1971,Marvin Gaye,5hReWjUHqPqkHi31G7izL4,Inner City Blues (Make Me Wanna Holler),57,94,65.0,1
+1.0,84.0,5.09,67.0,hip hop,hip hop/rap,0.0,F,8.0,-6.91,minor,23.0,The Divine Feminine,2016,"Mac Miller,Anderson .Paak",5iUQMwxUPdJBFeGkePtM66,Dang! (feat. Anderson .Paak),68,107,56.0,1
+96.0,44.0,4.28,15.0,jazz,jazz,0.0,G#,10.0,-12.76,minor,4.0,"Clap Hands, Here Comes Charlie! (Expanded Edition)",1989,Ella Fitzgerald,5jkd3e1qgmsTWJm3NvQ7X4,Cry Me A River,44,133,35.0,1
+0.576,79.7,8.32,83.2,edm,edm/house/dance,91.9,C#,10.1,-10.4,major,4.76,Cabora EP,2019,Angelov,5jpe3La1qz7jKxTRv85JE9,Retrida,51,123,33.9,0
+46.0,79.0,2.58,59.0,r&b,r&b,0.0,B,11.0,-9.1,minor,19.0,Drop 6,2020,Little Simz,5kZ3mNo3Sjstbq5nVa5CMG,"one life, might live",0,93,92.0,1
+49.1,82.2,2.85,89.3,latin,global music,5.81,G,12.6,-3.507,minor,6.55,4 Loko,2019,BVDGE,5kleOIaoeWiaz6hyBvHVsc,4 Loko,39,80,76.7,0
+16.8,52.0,3.99,57.1,soul/funk/motown,soul/funk/motown,0.0,B,17.0,-10.33,minor,3.6,Everybody Loves The Sunshine (Reissue),1976,Roy Ayers Ubiquity,5le4sn0iMcnKU56bdmNzso,Everybody Loves The Sunshine,62,161,70.1,1
+20.1,58.6,2.77,84.0,edm,edm/house/dance,0.056,G#,6.61,-6.674,minor,3.14,Time to Find Someone,2019,Bildjan,5o7gm4RXsakRzue0iRcAlv,Time to Find Someone,38,102,78.2,0
+14.0,93.0,3.54,44.0,hip hop,hip hop/rap,0.0,C#,15.0,-7.08,minor,13.0,Lockdown,2020,Anderson .Paak,5oZps6mYqU5s7A4WjUZggJ,Lockdown,47,100,50.0,1
+31.0,76.0,3.45,74.0,r&b,r&b,0.0,E,11.0,-6.73,minor,11.0,Be Honest (feat. Burna Boy),2019,"Jorja Smith,Burna Boy",5pAbCxt9e3f81lOmjIXwzd,Be Honest (feat. Burna Boy),67,98,64.0,1
+7.9,70.5,2.73,65.1,rap,hip hop/rap,0.0,C,11.3,-5.794,minor,7.65,Dedikeret,2020,Jamaika,5pktQTAcKamiILPjUZbCLs,Kawasaki,54,128,56.9,0
+35.4,70.6,3.35,93.1,pop,pop,0.0004,C,14.6,-3.053,minor,4.56,Mad Love (Remixes),2019,Mabel,5qiQbOa6AFEO3P111y9Jry,Mad Love - Blinkie Remix,62,123,46.5,0
+24.7,65.7,3.25,88.2,pop,pop,0.202,C,11.2,-3.565,minor,4.56,Heaven (feat. Veronica),2019,Dzeko,5ql2mP9FUhB3SgMzv2akuO,Heaven (feat. Veronica),68,128,17.9,0
+47.6,58.4,4.11,40.7,r&b,r&b,0.0,C#,18.0,-7.356,minor,4.6,"Fire On Fire (From ""Watership Down"")",2018,Sam Smith,5rFj8OzffT0iggSjcBaeND,"Fire On Fire - From ""Watership Down""",81,115,34.1,0
+96.4,40.5,3.16,11.1,r&b,r&b,0.0044,C,8.72,-11.879,major,3.69,Not About Angels,2014,Birdy,5sF7hdYvhrcgNq8NZjfK8L,Not About Angels,75,117,21.9,0
+20.9,85.6,3.17,68.9,latin,global music,0.0005,E,23.3,-5.615,minor,8.97,Con To',2019,Maikel Delacalle,5swCpW8wpeE86HstoqoA4L,Con To',58,98,67.8,0
+2.0,82.0,4.03,74.0,r&b,r&b,0.0,A#,13.0,-4.77,minor,28.0,Savage Remix (feat. Beyoncé),2020,"Megan Thee Stallion,Beyoncé",5v4GgrXPMghOnBBLmveLac,Savage Remix (feat. Beyoncé),59,84,64.0,1
+74.5,72.5,2.27,80.0,latin,global music,0.0008,G#,10.0,-5.768,minor,33.5,Serenata Sin Mariachis,2016,Métricas Frías,5vGSJRUnhGvQoxEBtn6vez,Dando Saltos,41,89,66.6,0
+52.0,55.0,3.35,72.0,soul/funk/motown,soul/funk/motown,0.0,D,48.0,-8.2,major,22.0,Get Lifted,2005,John Legend,5vPVxHRFg8cUwRr8j7yqXf,Alright,35,160,58.0,1
+95.4,41.8,4.05,24.8,r&b,r&b,0.0004,D#,10.8,-9.997,major,4.51,"Covers, Vol. 2",2016,Sleeping At Last,5zCunX8URvLoBHlg1Fnjv6,Already Gone,72,131,29.8,0
+0.087,57.4,2.88,97.6,edm,edm/house/dance,0.003,C#,46.5,-3.317,major,5.28,Bounce,2016,Kura,5zZvgHSIf6mroLuK5eOrQB,Bounce,17,128,40.2,0
+4.86,52.1,3.27,74.6,r&b,r&b,0.0,F,23.6,-3.421,major,3.49,Sunsets & Full Moons,2019,The Script,600oiqLkQIJ85HvQGIQWvO,The Last Time,75,132,15.0,0
+55.0,53.0,3.68,88.0,r&b,r&b,0.0,B,22.0,-6.29,minor,41.0,Rank & File,2018,Moses Sumney,61YRabDYZZ6RKmJQh7pO5Y,Rank & File,0,178,55.0,1
+0.0,38.0,3.25,68.0,rock,rock,0.0,G,13.0,-10.0,minor,4.0,Watching The Credits,2023,The Beths,61xtcyTyR9oXMnGmjVDAVW,Watching The Credits,12,167,43.0,1
+14.1,62.3,3.28,85.3,pop,pop,0.0,E,14.3,-5.356,major,4.72,Box Car Racer,2002,Box Car Racer,626yIpah5wJb9pcja3QgO2,There Is,1,106,78.3,0
+13.9,55.5,4.2,53.2,r&b,r&b,9.14,F#,30.8,-8.637,minor,2.95,Age Ain't Nothing But A Number,1994,Aaliyah,62OnJq6wHeTppRMWVw2Yo0,Age Ain't Nothing But a Number,38,168,43.4,0
+20.0,67.0,3.99,49.0,hip hop,hip hop/rap,0.0,A,16.0,-8.77,minor,42.0,Lil Boat 3,2020,Lil Yachty,62hpoPrA3rtfeX1aWONig5,Split/Whole Time,55,145,39.0,1
+52.0,54.0,3.54,65.0,folk,folk,6.0,G#,12.0,-10.93,major,3.0,Apple Tree Blues,2022,Caamp,62lLZOUN0AmYBaw6es63l5,Apple Tree Blues,40,173,74.0,1
+17.0,75.0,2.12,87.0,soul/funk/motown,soul/funk/motown,0.0,G,27.0,-2.32,major,10.0,Absolutely,2021,Dijon,63EUqnpcphhZh8SbXagArw,Many Times,53,130,71.0,1
+12.5,65.7,7.39,83.2,latin,global music,0.0,F#,14.9,-5.085,minor,13.6,Latinoamérica Morena,2016,Rapper School,63G6iIKfvS3CxMU34SuhbI,Latinoamérica Morena,52,90,75.0,0
+46.2,25.2,3.3,28.9,r&b,r&b,1.69,G,24.3,-10.003,major,4.42,Thirteen Stories Down: The Songs Of Jonathan Reid Gealt,2010,Natalie Weiss,63rQC2OJfpWonw823hNMqZ,Quiet,37,66,17.3,0
+0.113,72.5,4.17,43.1,rap,hip hop/rap,0.0,C#,14.0,-5.988,minor,7.07,Savage Life 2 (Explicit Version),2008,Webbie,65D95SmygxGCQGiI64eaZf,Independent (feat. Lil' Boosie and Lil' Phat),55,174,19.9,0
+6.18,57.8,3.22,44.9,hip hop,hip hop/rap,0.0,C#,11.9,-6.35,major,28.6,Scary Hours 2,2021,"Drake,Lil Baby",65OVbaJR5O1RmwOQx0875b,Wants and Needs (feat. Lil Baby),73,136,10.0,1
+0.0,77.0,3.22,80.0,rock,rock,2.0,B,8.0,-7.94,minor,6.0,Oh Mercy,1989,Bob Dylan,65Ywa7EspM0tSZreKwOmnL,Everything Is Broken,35,132,87.0,1
+2.29,52.7,3.14,87.1,rock,rock,15.5,E,41.9,-8.708,major,3.54,The Stooges,1969,The Stooges,672N8DGGTOLCOgWe0koX5g,I Wanna Be Your Dog,61,121,10.7,0
+3.97,72.4,3.96,69.2,rap,hip hop/rap,0.477,C#,31.4,-6.75,major,32.4,The Massacre,2005,50 Cent,68IM0wOuxlrbwk0zgmi9dk,Just A Lil Bit,3,97,53.2,0
+21.0,74.0,3.55,69.0,indie,indie,0.0,F,11.0,-5.47,major,10.0,Heard It In A Past Life,2019,Maggie Rogers,68vxG1i6RSmrsY9mRdqDgG,Burning,53,110,28.0,1
+79.0,57.0,2.56,49.0,soul/funk/motown,soul/funk/motown,0.0,C,9.0,-10.87,major,4.0,Where Did Our Love Go,1964,The Supremes,69RH84na5iUNwrwxpgjC5j,Where Did Our Love Go,64,135,85.0,1
+91.8,33.1,3.41,23.5,r&b,r&b,0.0,A#,13.7,-7.7,major,2.99,Only Human (Deluxe),2018,Calum Scott,69vToJ9BMbbLlFZo7k7A7B,You Are The Reason,83,171,21.8,0
+30.2,56.5,3.01,40.4,soul/funk/motown,soul/funk/motown,0.0,A,12.5,-10.97,minor,4.48,Where I'm Coming From,1971,Stevie Wonder,6Axz5VSkc4Bs8eXWQxnynE,If You Really Love Me,48,124,67.5,1
+8.0,70.0,3.64,78.0,folk,folk,0.0,C,16.0,-8.72,major,3.0,The Neon Skyline,2020,Andy Shauf,6CJM0s9pqIDTbSQ9KPnRqa,Neon Skyline,31,125,90.0,1
+24.7,47.6,4.04,40.7,r&b,r&b,0.0,E,14.4,-9.239,minor,3.68,More,2004,Tamia,6CUTYJQKcDwcQ63EulINUo,Officially Missing You,52,178,22.6,0
+0.941,40.3,4.84,93.5,rock,rock,0.065,B,6.56,-4.216,minor,13.5,Playlist: The Very Best Of Quiet Riot,1983,Quiet Riot,6CfjAVG9FwmwRtxE8yEWlu,Cum on Feel the Noize,3,145,35.3,0
+10.7,61.5,3.46,75.1,edm,edm/house/dance,0.0,F#,10.3,-4.282,minor,4.84,You Owe Me - Remixes,2018,The Chainsmokers,6EJMN1wW6ciSAB57yRLErU,You Owe Me - Magnace Remix,34,99,34.1,0
+32.3,68.0,3.11,60.9,pop,pop,0.0,C,10.2,-5.22,minor,4.4,ANTI,2016,Rihanna,6ELYUjIai7bjtyUocOLCRE,Desperado,39,94,32.5,1
+1.22,41.0,3.32,93.3,edm,edm/house/dance,0.0,F#,9.17,-3.873,major,5.67,Living Again,2018,Ryos,6EmewKNvq0nc7ZHCyjRKmb,Living Again,0,130,29.2,0
+85.0,58.7,4.52,27.9,jazz,jazz,0.06,C#,6.46,-10.19,major,3.56,"Hello, Dolly! (Remastered)",1964,Louis Armstrong,6GtJqo0vr7DqWOHQtp77cV,A Kiss To Build A Dream On,42,76,41.8,1
+3.0,82.0,3.5,50.0,hip hop,hip hop/rap,0.0,G,11.0,-7.38,major,15.0,Pretty Girls Like Trap Music,2017,"2 Chainz,Ty Dolla $ign,Trey Songz,Jhené Aiko",6H0AwSQ20mo62jGlPGB8S6,It's A Vibe,63,73,53.0,1
+0.0447,71.9,5.85,94.9,edm,edm/house/dance,88.7,F#,4.02,-7.754,minor,6.23,Rock To The Rhythm,2020,ROMBE4T,6HD523FPLEolYCPUqUQeEs,Rock To The Rhythm - Extended Edit,2,123,50.7,0
+40.0,85.0,2.6,50.0,hip hop,hip hop/rap,0.0,A,10.0,-7.59,major,4.0,See You When I am Famous!!!!!!!!!!!!,2020,"KYLE,Bryson Tiller,Raphael Saadiq",6Hi6Y4vSJH03Wj4w6iEBPs,The Sun (feat. Bryson Tiller & Raphael Saadiq),36,101,59.0,1
+19.0,90.0,3.72,47.0,hip hop,hip hop/rap,0.0,A#,8.0,-9.05,minor,20.0,Music,2001,"Erick Sermon,Marvin Gaye",6IFOw9Ck9mWHRQgw6QrPYx,Music (feat. Marvin Gaye),54,100,88.0,1
+19.0,83.0,3.0,59.0,r&b,r&b,0.0,F,9.0,-5.4,minor,4.0,Diaspora,2019,"GoldLink,Ari PenSmith",6Ic2MP2hzoBLe3r1VIle8J,Joke Ting (feat. Ari PenSmith),37,140,72.0,1
+40.4,81.4,4.7,85.6,rock,rock,0.0164,D#,14.7,-4.97,major,4.04,Afro-Beat Airways: Ghana & Togo 1974-1978 (Analog Africa No. 14),2010,De Frank Professionals,6IwbrqhA8HxDwcIWNbAbGV,Afe Ato Yen Bio,42,122,95.0,0
+27.8,86.3,2.96,75.7,latin,global music,7.13,E,8.27,-3.781,minor,21.8,Pa´ la Camara,2020,Power Peralta,6KPMVAR0DaZ0kXzgZk4xKP,Pa´ la Camara,51,100,74.7,0
+73.6,38.7,3.84,23.4,r&b,r&b,0.0,C,8.4,-8.861,major,3.73,Better Than Today,2019,Rhys Lewis,6MLHg35rlksBc5OBcdZvJi,Better Than Today,68,79,40.8,0
+30.0,87.0,5.08,65.0,hip hop,hip hop/rap,0.0,C#,28.0,-4.67,minor,29.0,Another Level,1996,"Blackstreet,Dr. Dre,Queen Pen",6MdqqkQ8sSC0WB4i8PyRuQ,No Diggity,76,89,67.0,1
+15.7,76.0,4.12,68.5,rap,hip hop/rap,0.0,B,9.78,-6.75,minor,24.1,Cassie (feat. Suspekt),2019,Xander,6MhfzzGpcBfSOSGveobKzS,Cassie (feat. Suspekt),53,156,63.3,0
+59.0,50.0,3.55,41.0,pop,pop,0.0,C,11.0,-7.58,major,5.0,Say So,2019,"PJ Morton,JoJo",6OLlACmD4AlW2N7CWVhVxO,Say So,38,75,23.0,1
+3.0,61.0,2.98,60.0,soul/funk/motown,soul/funk/motown,0.0,D#,19.0,-8.91,minor,3.0,Reach Out,1967,Four Tops,6Pkj4nv5K53i64cLVgkVyY,Reach Out I'll Be There,63,120,74.0,1
+16.0,71.0,3.72,67.0,pop,pop,0.0,A,11.0,-6.14,major,3.0,Love You For A Long Time,2019,Maggie Rogers,6QTPacyXkZWG9FMwq6L1hJ,Love You For A Long Time,66,113,82.0,1
+28.8,76.6,3.27,66.0,rap,hip hop/rap,0.0,E,9.27,-5.673,minor,11.7,Samme Vej,2019,NODE,6R3NpWbg7Zew8jCGA1Nc2q,Ghettostjerne (feat. ZK),49,92,46.2,0
+14.0,43.0,3.82,59.0,r&b,r&b,9.0,C,11.0,-7.55,minor,15.0,Rose in the Dark,2020,Cleo Sol,6RQ0i7rApnnWSI8uEiGVVF,Why Don't You,64,55,60.0,1
+39.0,72.0,4.01,82.0,r&b,r&b,13.0,F#,9.0,-8.8,minor,7.0,Raven,2023,Kelela,6RlczF1bVrcf4f65qaXuoA,Contact,46,127,74.0,1
+56.0,59.0,2.88,47.0,hip hop,hip hop/rap,0.0,G,10.0,-10.86,major,44.0,What’s In The Tea?,2023,Calimossa,6T8uyq0ah50RBGnu1c3e45,What’s In The Tea?,44,125,50.0,1
+87.6,75.2,3.72,27.6,r&b,r&b,0.0,F,10.3,-8.901,major,4.63,Cringe (Stripped),2017,Matt Maeson,6TpowNTagUJ7f8ctFFCVN8,Cringe - Stripped,65,126,27.5,0
+3.37,67.9,3.07,86.6,pop,pop,0.0,D,6.88,-3.754,major,5.66,Not Ok (Frank Walker Remix),2019,Kygo,6VP3410weACXiPCVLKSkOb,Not Ok - Frank Walker Remix,66,122,44.1,0
+83.0,75.0,3.6,24.0,jazz,jazz,0.0,E,9.0,-15.13,minor,12.0,Little Girl Blue (2013 Remastered Version),1958,Nina Simone,6VTbbVjKOC2qWagIDbkJrC,My Baby Just Cares for Me - 2013 Remastered Version,2,119,43.0,1
+11.6,74.6,2.68,62.5,rap,hip hop/rap,0.0,F,8.34,-3.989,minor,11.7,Jaloux (feat. ATYPISK),2020,Simsey,6VW9gXYrQiTaWiR2Svql03,Jaloux (feat. ATYPISK),56,144,27.6,0
+80.0,60.0,2.69,61.0,hip hop,hip hop/rap,0.0,A,39.0,-6.63,major,11.0,Ctrl,2017,SZA,6Vmow8PuUaU7W1T2WWLZk2,Go Gina,61,80,46.0,1
+0.504,45.5,3.67,56.2,edm,edm/house/dance,0.0,D,36.5,-5.031,major,2.93,All To Myself,2016,Nolan van Lith,6Vn1LjyhzU7mXOtTYzBKkQ,All To Myself,6,128,28.2,0
+1.04,82.1,3.15,56.1,rap,hip hop/rap,0.0,G,9.54,-6.682,major,20.5,Kiko,2019,Gilli,6WZHm21UPkvcmh5VLjhFZg,Ingenting At Sige (feat. NODE),60,100,56.8,0
+22.6,75.0,5.02,45.8,r&b,r&b,0.0033,C#,13.7,-9.092,major,8.03,Dangerously In Love,2003,Beyoncé,6XsT5UGfpaFeHQf5LRIy4W,"Me, Myself and I",66,84,53.6,0
+45.8,83.9,2.9,69.9,rap,hip hop/rap,0.001,G,7.89,-6.532,minor,43.9,888,2019,KESI,6ZvA8Difc7oFBxfZXJ6JuT,BDK (feat. Gilli),62,130,66.9,0
+25.1,58.4,2.75,62.7,rap,hip hop/rap,0.0,E,8.91,-4.607,major,18.7,A NIVEAU,2019,ATYPISK,6aq0IJ1Ftp7PoJfPum2oMM,Lærte Hende Alt (feat. Lærke Emilie),64,91,52.8,0
+46.0,64.0,4.87,41.0,r&b,r&b,0.0,B,14.0,-7.77,major,3.0,The Evolution of Robin Thicke,2006,Robin Thicke,6bTORCskFVRlnHXbVgnKEe,Can U Believe,31,82,35.0,1
+3.34,72.1,3.7,71.6,latin,global music,0.084,A#,23.7,-7.037,minor,6.57,RITMO (Bad Boys For Life),2019,The Black Eyed Peas,6cy3ki60hLwimwIje7tALf,RITMO (Bad Boys For Life),96,105,66.7,0
+24.0,63.8,2.2,70.8,pop,pop,0.0,C#,31.1,-5.001,minor,4.21,8 Letters (R3HAB Remix),2018,Why Don't We,6dX62wjTHi9F1srVTjV89X,8 Letters - R3HAB Remix,2,103,58.2,0
+41.6,78.6,2.96,35.7,rock,rock,0.119,E,7.56,-15.838,minor,4.72,Clear Spot,1972,Captain Beefheart & His Magic Band,6fJSEk0GDtPOk3gFxcnbUy,Her Eyes Are a Blue Million Miles,49,89,71.2,0
+14.3,67.3,2.91,88.5,pop,pop,0.0,B,18.4,-3.574,minor,5.69,Rescue Me (with BUNT.) [BUNT. Remix],2019,OneRepublic,6fvbl9D9VjMtLRQsuWPyYt,Rescue Me (with BUNT.) - BUNT. Remix,10,121,70.4,0
+0.0,83.0,4.51,43.0,hip hop,hip hop/rap,0.0,D,12.0,-8.99,major,18.0,Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars),1997,"Wyclef Jean,Ms. Lauryn Hill,Celia Cruz,Jeni Fujita",6g5ov3aSDUvvDkQKIcmZQI,"Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",53,88,39.0,1
+8.0,45.0,4.0,57.0,r&b,r&b,0.0,D,23.0,-8.19,minor,25.0,I Used To Know Her,2019,H.E.R.,6hRrzZJ90DNQdEF1Wu2Mrf,As I Am,51,84,18.0,1
+72.0,47.0,3.6,35.0,rock,rock,0.0,C,8.0,-11.1,major,3.0,Backspacer,2009,Pearl Jam,6i81qFkru6Kj1IEsB7KNp2,Just Breathe,66,108,28.0,1
+6.26,51.8,5.49,91.5,rock,rock,0.0097,D#,48.7,-7.634,minor,4.31,Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria,2010,The Identicals,6iNLRaWoB35tb4l7SKLqB5,Akwa Kayi Ji Bia Nuwa,0,112,91.2,0
+0.967,57.0,4.17,71.7,r&b,r&b,0.0,C#,8.33,-4.914,major,2.9,"Songs For You, Truths For Me (International Exclusive Bundle)",2008,James Morrison,6jBUP2KCe821yqf1hiBqPR,Broken Strings,70,112,32.1,0
+90.0,44.0,3.3,14.0,jazz,jazz,0.0,C,13.0,-13.27,major,3.0,Come Away With Me (Super Deluxe Edition),2002,Norah Jones,6jGnykaS6TkWp15utXSAeI,Come Away With Me,71,77,15.0,1
+5.19,65.2,2.96,45.3,r&b,r&b,0.0,C#,17.9,-6.119,major,4.45,Hurts 2B Human,2019,P!nk,6jfEZdUJ2Yla6h7gTJgKuo,Walk Me Home,69,88,43.2,0
+26.9,60.1,3.17,77.5,pop,pop,0.0,C,8.83,-4.612,major,4.73,REMEDY,2018,Alesso,6jreFSOTUAViWjKyzOC4Kg,REMEDY,77,120,48.3,0
+24.0,61.0,2.83,73.0,r&b,r&b,0.0,G,42.0,-4.47,minor,6.0,The Age of Pleasure,2023,Janelle Monáe,6kIgzGx7gH0qAKTFTF5GsU,Only Have Eyes 42,42,80,53.0,1
+66.0,54.0,4.96,46.0,afrobeats,afrobeats,49.0,F#,10.0,-8.74,minor,6.0,If Orange Was A Place,2021,Tems,6kJBDQLD0YOAyqmo9HWBrR,Vibe Out,50,140,60.0,1
+97.4,40.0,3.67,4.38,jazz,jazz,0.0,A#,8.95,-19.26,major,3.91,Ella Fitzgerald Sings The Duke Ellington Song Book,1957,"Ella Fitzgerald,Oscar Peterson",6nKeLkmlyK3ooDoDUxZVgP,Lush Life,18,91,17.6,1
+9.79,92.7,3.74,59.6,rap,hip hop/rap,0.0,A#,28.3,-7.058,minor,30.1,Murphy's Law,2003,Murphy Lee,6njG8EYG1lrROn8P6q46eq,Wat Da Hook Gon Be - Dirty,49,95,91.4,0
+7.45,75.8,4.47,64.2,r&b,r&b,0.0,G,19.1,-8.128,minor,22.1,The Price Of Fame,2006,Bow Wow,6oUGAx0vkBcnGzYkvw0ZsA,Shortie Like Mine,67,142,70.1,0
+17.3,80.3,2.21,53.5,hip hop,hip hop/rap,0.0,D,27.3,-10.84,major,11.0,Astronaut In The Ocean,2019,Masked Wolf,6obwWXkBEYouAdP0BGthKt,Astronaut In The Ocean,51,150,36.7,1
+91.0,41.0,3.91,38.0,rock,rock,0.0,G#,17.0,-10.31,major,4.0,Humble Quest,2022,Maren Morris,6onpcMnD3eVbTq1B5th05E,The Furthest Thing,29,82,26.0,1
+69.8,71.4,3.34,52.8,latin,global music,0.0,C,12.0,-5.219,major,3.81,Fantasias (Unplugged),2019,Rauw Alejandro,6qqd7DGn2VXzxsR4k3Ycun,Fantasias - Unplugged,77,92,53.8,0
+53.6,63.6,3.62,43.3,r&b,r&b,0.0,A#,12.3,-8.346,major,6.14,You Deserve Better / At My Weakest,2018,James Arthur,6rcTyXe8W8kjQLyALBRj1v,At My Weakest,67,75,23.4,0
+2.86,53.3,3.08,59.6,rap,hip hop/rap,0.0,A#,6.84,-3.802,minor,8.91,Before I Self-Destruct,2009,50 Cent,6so3XYH1yyeWFGskbQvDjQ,"OK, You're Right",0,97,45.4,0
+8.0,65.0,3.71,73.0,r&b,r&b,0.0,D,60.0,-5.85,major,9.0,The Lion King: The Gift,2019,Beyoncé,6tgEc2O1uFHcZDKPoo6PC8,ALREADY,60,67,55.0,1
+0.145,68.4,4.33,85.4,rock,rock,0.0105,D,9.13,-2.802,minor,3.34,I'm with You,2011,Red Hot Chili Peppers,6vLwOFz5BYeEJPyvgUea2D,Factory of Faith,52,141,70.6,0
+18.3,51.8,4.0,72.9,r&b,r&b,0.0,B,6.43,-7.193,minor,4.52,A Place We Knew,2019,Dean Lewis,6w8pFOKn42O418qwcQElZ3,Waves,74,157,34.3,0
+56.0,60.0,4.83,59.0,folk,folk,32.0,E,11.0,-9.76,major,3.0,Bryter Layter,1971,Nick Drake,6wuekNiL0KqFbvfdwuequN,One Of These Things First,55,90,66.0,1
+14.3,59.7,3.63,81.8,latin,global music,0.0,A,16.9,-4.526,major,6.63,MIA,2019,Tayl G,6xGgxNO4Hp1gfEUatmc0nZ,MIA,52,180,61.1,0
+27.2,90.7,4.28,45.5,latin,global music,3.66,D#,9.78,-11.124,major,22.5,Milki,2016,Akapellah,6y2GBwBg3jE70j5G1xDWxh,Milki,45,128,22.3,0
+36.0,58.0,3.16,84.0,pop,pop,3.0,D,8.0,-7.16,minor,5.0,empathogen,2024,WILLOW,70nmpLYSyZ58QTUzUiB1VA,symptom of life,59,160,44.0,1
+20.1,77.5,4.17,63.3,latin,global music,0.0,A#,21.9,-3.332,minor,13.3,La Playa (Remix),2020,Myke Towers,70zg99pT51vB4wlMS7e4q7,La Playa - Remix,79,140,39.4,0
+0.273,90.1,4.72,51.2,rap,hip hop/rap,0.0,C#,9.79,-6.468,major,37.0,The Crunk Recordings: Hits From The Pioneers And Players Of Crunk,2009,Trillville,71mDjdeVK9sqXmamMHaAfX,Some Cut (feat. Cutty),56,85,63.8,0
+7.0,72.0,3.66,53.0,hip hop,hip hop/rap,0.0,B,9.0,-6.24,major,9.0,ANTI (Deluxe),2016,Rihanna,72TFWvU3wUYdUuxejTTIzt,Work,77,92,55.0,1
+69.0,36.0,5.71,47.0,jazz,jazz,0.0,F,8.0,-13.05,minor,7.0,Blues & Roots,1960,Charles Mingus,74EiaLmtaOlfKZYFkhHs6J,Wednesday Night Prayer Meeting,32,87,49.0,1
+34.6,84.3,2.59,67.1,rap,hip hop/rap,0.0,D,11.1,-6.672,major,28.6,Helt Stabil,2019,Fouli,74UxMl2RwVslYvWd9cGmlL,Helt Stabil,58,102,74.5,0
+0.237,81.0,5.74,79.1,edm,edm/house/dance,0.0172,C,20.9,-5.332,minor,9.69,I Need Your Love,2013,Calvin Harris,74eDdfWtlPPhjsRstBXUBc,I Need Your Love - Nicky Romero Remix,39,125,42.6,0
+20.0,74.0,4.23,58.0,rock,rock,0.0,E,17.0,-12.43,minor,8.0,Rough and Rowdy Ways,2020,Bob Dylan,74mIBeHhMcIpiAej3nBgo4,Goodbye Jimmy Reed,38,100,88.0,1
+19.8,63.8,4.99,75.0,rock,rock,0.172,A,23.2,-7.659,major,4.3,Absolute Rock Anthems,2008,The Who,76IcyIbm2z4TJ7VjQ1tCkS,Who Are You - Single Edit,0,156,50.1,0
+55.1,71.0,5.3,87.4,world,global music,0.03,G,28.7,-1.96,major,3.1,Kinavana,1998,Kékélé,76ot3BABnfPJi06g7J7iBa,Conséquence,9,100,88.0,1
+17.0,85.0,3.03,65.0,hip hop,hip hop/rap,2.0,B,13.0,-6.3,major,22.0,Red Eye,2023,"Money Man,Babyface Ray",78MA8xdZCe4KS9SuIxs1Ce,Drums,37,145,52.0,1
+96.0,60.0,5.94,22.0,jazz,jazz,1.0,C#,7.0,-17.16,major,3.0,New Moon Daughter,1995,Cassandra Wilson,791eQ4TI42crcH5DKIz7uA,Solomon Sang,15,102,30.0,1
+21.0,78.0,3.08,57.0,r&b,r&b,0.0,D,13.0,-7.53,major,35.0,Everything is Beautiful,2020,Princess Nokia,79VKEr51Prtp9dBIEYjJVn,Gemini,40,80,91.0,1
+12.6,64.3,2.68,77.5,latin,global music,0.0,A#,14.2,-4.622,minor,18.4,Vamonos,2019,Elias Diaz,7AlfoiKXfXzwVPE9asKNCs,Vamonos,39,194,50.3,0
+0.74,75.0,2.75,87.9,soul/funk/motown,soul/funk/motown,0.0,F#,29.6,-4.25,major,3.59,You Ain't The Problem (Claptone Remix),2019,"Michael Kiwanuka,Claptone",7BFXQINSdAqgOmMydTGnKG,You Ain't The Problem - Claptone Remix,50,124,65.6,1
+14.0,70.0,5.06,43.0,pop,pop,88.0,G,8.0,-12.53,major,5.0,HIT ME HARD AND SOFT,2024,Billie Eilish,7BRD7x5pt8Lqa1eGYC4dzj,CHIHIRO,88,110,52.0,1
+5.51,37.5,4.97,50.4,r&b,r&b,0.0051,F#,22.5,-8.941,minor,4.24,Age Ain't Nothing But A Number,1994,Aaliyah,7CAHOnKTOgmevBK0ohndz4,Street Thing,27,128,19.0,0
+47.0,54.0,4.65,49.0,rock,rock,0.0,D,9.0,-11.93,major,3.0,The Youngbloods,1967,The Youngbloods,7CQXyFX44CXmnuq8Bi9Dyc,Get Together,53,103,58.0,1
+64.0,77.0,2.95,69.0,hip hop,hip hop/rap,0.0,F,22.0,-7.03,minor,11.0,The Renaissance,2008,Q-Tip,7D8MbQyYgjcihxE3sH9FnG,Believe,26,97,36.0,1
+59.0,82.0,3.28,63.0,soul/funk/motown,soul/funk/motown,0.0,G,48.0,-10.75,major,5.0,Mighty Love,1974,The Spinners,7DCav3rL0B3A5Lp7CXcatN,Mighty Love,34,110,72.0,1
+0.166,60.0,2.62,88.8,pop,pop,0.0,G#,40.0,-4.612,major,13.0,Found Love (feat. Lovespeake),2019,MOTi,7EHCt2jdVwHp557sfMPosf,Found Love (feat. Lovespeake),59,126,64.1,0
+5.0,77.0,4.73,81.0,hip hop,hip hop/rap,0.0,D,21.0,-5.51,minor,11.0,Grateful,2017,"DJ Khaled,Beyoncé,JAY-Z",7Fa5UNizycSms5jP3SQD3F,Shining (feat. Beyoncé & Jay-Z),46,112,58.0,1
+9.0,54.0,3.13,67.0,rock,rock,0.0,D,11.0,-5.2,major,4.0,The Devil I Know,2023,Ashley McBryde,7FvHEqbqeG3hoNZBBUjkVC,The Devil I Know,37,168,61.0,1
+1.0,53.0,4.02,94.0,rock,rock,0.0,C#,19.0,-5.64,minor,4.0,Born In The U.S.A.,1984,Bruce Springsteen,7FwBtcecmlpc1sLySPXeGE,Dancing In the Dark,82,149,50.0,1
+27.0,68.0,4.84,79.0,hip hop,hip hop/rap,0.0,A#,12.0,-6.19,minor,14.0,Illmatic,1994,Nas,7G3lxTsMfSx4yarMkfgnTC,The World Is Yours,67,87,54.0,1
+17.5,57.1,3.69,80.8,edm,edm/house/dance,48.7,C#,17.6,-8.044,minor,3.69,Bingo,2019,Palm Vision,7IT5ejCSseE0gylca5NQrd,Bingo,18,125,52.5,0
+26.0,80.9,3.57,63.2,rap,hip hop/rap,0.0011,B,7.16,-7.626,minor,18.6,1010,2020,Benny Jamz,7IlYDWKUtjuQ1xPf6KAzWc,Shopping (feat. Kesi & Stepz),57,140,51.9,0
+1.96,56.9,5.71,49.3,edm,edm/house/dance,0.01,F#,4.17,-4.89,minor,4.43,So Far Away (Remixes Vol. 1),2017,Martin Garrix,7J7D2Ezp32LxlYuNTZX48n,So Far Away - Nicky Romero Remix,40,126,24.2,0
+99.0,36.0,4.04,1.0,jazz,jazz,0.0,E,10.0,-21.65,minor,4.0,Linger Awhile,2022,"Samara Joy,Pasquale Grasso",7MCGBbLKg9BS7lQS1S5SN5,Someone To Watch Over Me (feat. Pasquale Grasso),32,91,12.0,1
+32.0,81.0,2.85,60.0,house/dance,edm/house/dance,5.0,G,9.0,-3.3,major,9.0,Pull Up,2022,Original Koffee,7aBRoWtp9jsZFxwml1LfeG,Pull Up,2,103,65.0,1
+3.09,64.1,3.47,78.8,latin,global music,0.0,G#,77.2,-8.406,major,10.9,Psycho Realm Presents Sick Jacken And Cynic In Terror Tapes 2,2012,The Psycho Realm,7amm8xQDxryrWiD3kyQONd,Obra Maestra,26,97,27.5,0
+4.43,64.9,4.79,83.1,pop,pop,38.3,F,7.12,-6.556,minor,7.02,Without No Fear,2019,Urchin,7cDBUr6mlP58oJXvIO1JGy,Without No Fear,21,127,36.3,0
+10.8,50.2,6.36,37.0,r&b,r&b,7.92,F,12.0,-13.115,major,3.46,Maxwell's Urban Hang Suite,1996,Maxwell,7eSDRPSjYBOcqB7b6Ord6X,Lonely's the Only Company (I&II),34,84,4.41,0
+71.4,57.4,3.62,45.3,r&b,r&b,0.0195,G#,11.1,-9.32,major,10.6,Destination,2018,Ruck P,7fCzmX69Ksgsc6ogGRhPlp,As Long As I Got You,42,84,50.3,0
+18.0,34.0,3.81,92.0,rock,rock,18.0,F,29.0,-3.94,major,4.0,Exile On Main Street (2010 Re-Mastered),1972,The Rolling Stones,7faybsF8gIVvWtAp9hUcI2,Soul Survivor,34,115,53.0,1
+17.0,84.0,4.32,65.0,r&b,r&b,0.0,C#,13.0,-6.03,minor,10.0,Green Balloon,2019,Tank and The Bangas,7fyU4Ce2YIkn3XCR1FKP05,Spaceships,24,137,67.0,1
+47.5,30.5,4.69,46.2,r&b,r&b,12.2,C,9.16,-9.57,major,3.38,I Forget Where We Were,2014,Ben Howard,7gYwIAHB6VxzLJFSZMMv8i,I Forget Where We Were,63,113,18.1,0
+9.0,91.0,2.71,78.0,reggaeton,global music,0.0,F,18.0,-2.25,major,26.0,nadie sabe lo que va a pasar mañana,2023,"Bad Bunny,Feid",7iQXYTyuG13aoeHxGG28Nh,PERRO NEGRO,85,96,35.0,1
+0.0036,53.5,4.51,83.4,rock,rock,0.0002,B,30.5,-7.645,major,2.69,Collections,2007,Motörhead,7mNlE9QwjGnxPH5TQ3wuEp,Hellraiser,22,98,64.4,0
+54.0,84.0,2.36,44.0,soul/funk/motown,soul/funk/motown,1.0,A,11.0,-9.44,major,5.0,I Never Loved a Man the Way I Love You,1967,Aretha Franklin,7mvKpoeI6sq6osDtSb9xcF,Save Me,33,120,53.0,1
+3.34,64.5,3.78,79.5,pop,pop,0.0011,C#,8.9,-5.439,major,3.43,Sweet but Psycho (Remixes),2018,Ava Max,7nbVbGjifh0m2fhPYqcI1R,Sweet but Psycho - Morgan Page Dance Remix,65,128,42.4,0
+16.0,28.0,7.12,49.0,soul/funk/motown,soul/funk/motown,0.0,G,17.0,-7.85,minor,3.0,Love & Hate,2016,Michael Kiwanuka,7oOEFDLSQscl0uGulnIEmG,Love & Hate,63,170,53.0,1
+12.0,61.0,4.53,71.0,r&b,r&b,0.0,G,34.0,-6.18,major,37.0,The Lion King: The Gift,2019,"JAY-Z,Beyoncé,Childish Gambino,Oumou Sangaré",7oqftogUN82Q7VNy2TmTJW,MOOD 4 EVA (feat. Oumou Sangaré),50,106,71.0,1
+69.8,65.6,3.03,57.7,r&b,r&b,0.0,A#,29.6,-5.566,minor,8.02,Narrated For You,2018,Alec Benjamin,7pT6WSg4PCt4mr5ZFyUfsF,If We Have Each Other,76,173,86.1,0
+48.4,75.3,3.98,47.2,r&b,r&b,1.27,D#,28.4,-9.76,minor,12.1,Mama's Gun,2000,Erykah Badu,7pv80uUHfocFqfTytu1MVi,Didn't Cha Know,69,135,81.6,1
+61.0,39.0,4.64,33.0,jazz,jazz,3.0,A,11.0,-14.8,major,4.0,Esperanza,2008,Esperanza Spalding,7qEKZP3nOqWpEQlANPccOx,Espera,29,152,21.0,1
+53.2,73.9,3.63,62.2,pop,pop,0.0,B,5.08,-5.382,minor,3.94,Thursday (Nicky Romero Remix),2018,Jess Glynne,7r4nPsLToVIPdsiEeZKF6Y,Thursday - Nicky Romero Remix,52,120,61.5,0
+22.9,32.3,2.43,70.4,rock,rock,0.0001,A,22.8,-11.585,major,5.73,The Doors [40th Anniversary Mixes],1967,The Doors,7rNzap95cCcOafjFtofpBk,Break On Through [To The Other Side] - New Stereo Mix Advanced Resolution,0,184,80.4,0
+88.9,45.5,2.97,29.2,r&b,r&b,0.0,C,10.6,-6.792,major,5.63,Camila,2018,Camila Cabello,7sTtHHrD0zDpmzQzH3zegz,Consequences,73,84,43.0,0
+3.0,91.0,3.19,64.0,house/dance,edm/house/dance,0.0,A#,7.0,-7.92,minor,26.0,Rapture EP,2019,Original Koffee,7sd72KZS8D59g5NmhxyHpJ,Toast,10,100,79.0,1
+8.0,76.0,2.82,51.0,soul/funk/motown,soul/funk/motown,0.0,B,13.0,-6.94,minor,17.0,Ivory,2022,Omar Apollo,7sg9kDT8H2P0wPACXnWRdN,Tamagotchi,49,133,55.0,1
+9.43,66.1,4.53,61.9,world,global music,3.04,G#,9.07,-9.73,major,3.01,Toxu,1998,"Wasis Diop,Beth Hirsch",7tpTeZgPPcpGHmKLwQClXt,Everything (... Is Never Quite Enough),35,143,27.1,1
+17.5,58.3,3.97,83.1,rock,rock,0.0296,C,53.6,-5.077,major,4.51,Absolute Rock Anthems,2008,The Knack,7uCDNfNCqcJT1y7ZR5kP6t,My Sharona,0,148,81.2,0
+0.392,85.6,5.31,46.5,edm,edm/house/dance,89.7,F#,7.95,-6.479,minor,4.51,Don't Touch Me,2015,Melih Aydogan,7uE4Ie7tNB5XVn3Z8FYdHh,Don't Touch Me - Original Mix,33,122,32.0,0
+58.0,73.0,3.89,71.0,r&b,r&b,0.0,D,16.0,-6.55,major,8.0,COWBOY CARTER,2024,Beyoncé,7wLShogStyDeZvL0a6daN5,TEXAS HOLD 'EM,74,110,38.0,1
+10.9,53.8,2.97,71.0,rap,hip hop/rap,0.0,G,5.2,-6.089,minor,29.1,Præg På Kortet,2019,DON x LEE x BARBER,7xCKov7FR4JjlgukQGzfrW,Præg På Kortet,47,161,70.2,0
+27.0,78.0,2.93,67.0,r&b,r&b,0.0,F,44.0,-6.4,minor,19.0,INDUSTRY GAMES,2020,CHIKA,7yewACUEo8jX7oLhSaNzBs,CROWN,36,94,85.0,1
+19.2,71.5,3.67,74.5,latin,global music,0.0011,A,8.07,-6.265,minor,18.7,Numerología,2019,Lalo Ebratt,7zwOSMqWghSCfZrVo5r5nR,Mala Costumbre,57,192,80.2,0

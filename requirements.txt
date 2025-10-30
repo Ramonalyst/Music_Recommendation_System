@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+pyarrow
+google-cloud-bigquery
+google-auth
+requests
+python-dotenv
+plotly
+jupyter

@@ -97,7 +97,7 @@ Data Analyst · Music Enthusiast · Project Lead
 
 ## 📬 Connect via LinkedIn
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramona-mufi%C4%87-69b29b281/) for questions, feedback, or collaboration ideas.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramona-mufic/) for questions, feedback, or collaboration ideas.
 Feel free to ⭐ star this repo if you find it useful!
 
 ## 🤝 Collaborators
